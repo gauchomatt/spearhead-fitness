@@ -18,34 +18,71 @@
 @import '../../startup/ui-kit/ui-kit-footer/less/footer-13.less';
 
 
-// ===========================
+// Re-define Variables
+// =================================================================================
+@font-family-base:          "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+@font-family-demo:          "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-body,
-h1, .h1,
-h2, .h2, 
-h3, .h3, 
-h4, .h4, 
-h5, .h5, 
-h6, .h6 {
-	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+@base-color:				#BA3A3A;
+@base-dark:					#2C2C2C;
+
+// Overides
+// =================================================================================
+html,
+body {
+	font-family: @font-family-base;
 }
 
-.btn,
-.btn-success {
-	background-color: #BA3A3A;
+.bg-midnight-blue {
+	background-color: @base-color;
 }
-
 .header-10 {
+	height: 0;
 	.navbar {
 		.brand {
-
+			width: 170px;
 		}
 	}
+	.btn-success {
+		background-color: @base-color;
+	}
+	.header-background {
+		background: @base-dark;
+	}
+}
+.header-10-sub {
 	.background {
 		background-image: url("img/primary-hero-crossfit.jpg");
-		opacity: 100;
-		filter: alpha(opacity=10000);
-		opacity: 1;
-		filter: alpha(opacity=100);
+	}
+	.hero-unit {
+		h1 {
+			font-weight: 600;
+			letter-spacing: 0;
+		}
+		p {
+			font-weight: 100;
+		}
+	}
+}
+
+.content-23 {
+	&.custom-bg {
+		background-image: url("img/secondary-hero-crossfit.jpg");
+		background-position: 50% 50%;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size: cover;
+	}
+}
+.content-23 {
+	.hero-unit {
+		&.hero-unit-bordered {
+			h1 {
+				border-color: @base-color;
+				color: @base-color;
+			}
+		}
 	}
 }
