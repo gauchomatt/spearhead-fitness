@@ -9,9 +9,12 @@
 @import '../../startup/ui-kit/ui-kit-content/less/content-5.less';
 @import '../../startup/ui-kit/ui-kit-content/less/content-23.less';
 @import '../../startup/ui-kit/ui-kit-content/less/content-17.less';
+@import '../../startup/ui-kit/ui-kit-content/less/content-15.less';
+@import '../../startup/ui-kit/ui-kit-content/less/content-29.less';
+@import '../../startup/ui-kit/ui-kit-content/less/content-11.less';
 @import '../../startup/ui-kit/ui-kit-projects/less/project-common.less';
 @import '../../startup/ui-kit/ui-kit-projects/less/project-4.less';
-@import '../../startup/ui-kit/ui-kit-crew/less/crew-2.less';
+@import '../../startup/ui-kit/ui-kit-crew/less/crew-4.less';
 @import '../../startup/ui-kit/ui-kit-price/less/price-common.less';
 @import '../../startup/ui-kit/ui-kit-price/less/price-5.less';
 @import '../../startup/ui-kit/ui-kit-contacts/less/contact-5.less';
@@ -25,26 +28,38 @@
 
 @base-color:				#BA3A3A;
 @base-dark:					#2C2C2C;
+@base-brown:				#AC9369;
+@base-white:				#FFFFFF;
 
-// Overides
+// Global
 // =================================================================================
 html,
 body {
 	font-family: @font-family-base;
 }
 
+// Individual Elements
+// =================================================================================
 .bg-midnight-blue {
 	background-color: @base-color;
 }
+.btn-success,
+.btn-danger {
+	background-color: @base-color;
+}
+
+// Sections
+// =================================================================================
 .header-10 {
 	height: 0;
 	.navbar {
+		margin: 30px 0;
+		@media (max-width: 480px) {
+			margin: 0;
+		}
 		.brand {
 			width: 170px;
 		}
-	}
-	.btn-success {
-		background-color: @base-color;
 	}
 	.header-background {
 		background: @base-dark;
@@ -64,10 +79,41 @@ body {
 		}
 	}
 }
-
+.content-15 {
+	h1 {
+		color: @base-color;
+		text-align: center;
+	}
+	h3 {
+		color: #7f8c8d;
+	}
+	.features {
+		margin-top: 60px;
+		h6 {
+			color: @base-color;
+		}
+	}
+	.gym {
+		height: 400px;
+		background: url("img/crossfit-spearhead-gym.jpg") no-repeat center center fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+}
 .content-23 {
 	&.custom-bg {
 		background-image: url("img/secondary-hero-crossfit.jpg");
+		background-position: 50% 50%;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		background-size: cover;
+	}
+	&.custom-bg-2 {
+		background-image: url("img/crossfit-spearhead-gym.jpg");
 		background-position: 50% 50%;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
@@ -84,5 +130,20 @@ body {
 				color: @base-color;
 			}
 		}
+	}
+}
+.content-11 {
+	background: @base-brown;
+	padding: 70px 0;
+	span {
+		color: @base-white;
+	}
+}
+.photos {
+	clear: both;
+	list-style-type: none;
+	.photo-item {
+		float: left;
+		display: inline-block;
 	}
 }
