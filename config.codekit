@@ -1,0 +1,3366 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "17670",
+"files": {
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-race@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 233968,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-race@2x.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-race@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-spearhead-gym-kids.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 552760,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-spearhead-gym-kids.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-spearhead-gym-kids.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-spearhead-gym-members.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169522,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-spearhead-gym-members.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-spearhead-gym-members.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-spearhead-gym.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74868,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-spearhead-gym.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/crossfit-spearhead-gym.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/primary-hero-crossfit.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 404462,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/primary-hero-crossfit.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/primary-hero-crossfit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/secondary-hero-crossfit.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 397339,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/secondary-hero-crossfit.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/img\/secondary-hero-crossfit.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/js\/dug.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/js\/dug.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/js\/min\/dug-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/js\/script.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/js\/script.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/js\/min\/script-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/animations.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/animations.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/icon-font.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/icon-font.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/images\/controls.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2806,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/images\/controls.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/images\/controls.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/jquery.bxslider.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/jquery.bxslider.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/Chat@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4264,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/Chat@2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/Chat@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/magic-wand@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14151,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/magic-wand@2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/magic-wand@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/menu-icon@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 966,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/menu-icon@2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/menu-icon@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/ps@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4449,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/ps@2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/ps@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/responsive@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2379,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/responsive@2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/responsive@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/twitter@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6990,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/twitter@2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/icons\/twitter@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/browser-c.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1262,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/browser-c.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/browser-c.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1151,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/browser.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/screen-2@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14132,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/screen-2@2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/screen-2@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/screen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9218,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/screen.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/content\/screen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/adrian-v.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76357,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/adrian-v.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/adrian-v.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/edvard-k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157786,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/edvard-k.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/edvard-k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/oxana-n.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85664,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/oxana-n.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/oxana-n.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/sergey-s.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83642,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/sergey-s.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/sergey-s.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/tatiana-y.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74351,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/tatiana-y.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/tatiana-y.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/vladimir-k.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76568,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/vladimir-k.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/crew\/vladimir-k.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/header\/img-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 294400,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/header\/img-3.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/img\/header\/img-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/easing.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/easing.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/easing.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/froogaloop.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/froogaloop.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/froogaloop.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery-1.10.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery-1.10.2.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/jquery-1.10.2.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.backgroundvideo.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.backgroundvideo.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/jquery.backgroundvideo.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.bxslider.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.bxslider.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/jquery.bxslider.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.parallax.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.parallax.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/jquery.parallax.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.scrollTo-1.4.3.1-min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.scrollTo-1.4.3.1-min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/jquery.scrollTo-1.4.3.1-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.sharrre.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.sharrre.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/jquery.sharrre.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.svg.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.svg.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/jquery.svg-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.svganim.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/jquery.svganim.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/jquery.svganim-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/masonry.pkgd.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/masonry.pkgd.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/masonry.pkgd.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/modernizr.custom.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/modernizr.custom.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/modernizr.custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/page-transitions.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/page-transitions.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/page-transitions-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/startup-kit.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/startup-kit.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/js\/min\/startup-kit-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/common.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/common.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/common.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/gallery.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/gallery.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/gallery.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/helper.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/helper.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/helper.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/icon-font.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/icon-font.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/icon-font.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/mixins.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/mixins.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/mixins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/navbar.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/navbar.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/navbar.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/startup-kit_header.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/less\/startup-kit_header.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/common-files\/css\/startup-kit_header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/css\/bootstrap-docs.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/css\/bootstrap-docs.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/css\/bootstrap.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/css\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/css\/prettify.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/css\/prettify.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/js\/application.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/js\/application.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/js\/min\/application-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/js\/google-code-prettify\/prettify.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/js\/google-code-prettify\/prettify.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/js\/google-code-prettify\/min\/prettify-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/js\/holder.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/js\/holder.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/bootstrap\/js\/min\/holder-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/components.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/components.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/demo.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/demo.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/docs.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/docs.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/flat-ui.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/flat-ui.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/getting-started.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/getting-started.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2041,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-author.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3583,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-author.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-author.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12289,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-1.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6348,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-2.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7091,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-3.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7938,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-4.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6526,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-5.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8526,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-6.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser-pic-6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1347,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/browser.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/html-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4341,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/html-icon.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/html-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/logo-mask-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6794,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/logo-mask-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/logo-mask-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/logo-mask.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2839,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/logo-mask.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/logo-mask.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/video.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172944,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/video.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/demo\/video.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/exaple-image.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194398,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/exaple-image.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/exaple-image.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/footer\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8633,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/footer\/logo.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/footer\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Book.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3084,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Book.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Book.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Calendar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4553,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Calendar.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Calendar.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Chat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4264,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Chat.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Chat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Clipboard.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3931,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Clipboard.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Clipboard.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Compas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17148,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Compas.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Compas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Gift-Box.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11769,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Gift-Box.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Gift-Box.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Infinity-Loop.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8626,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Infinity-Loop.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Infinity-Loop.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Mail.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7028,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Mail.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Mail.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Map.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8582,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Map.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Map.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Pensils.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12042,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Pensils.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Pensils.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Pocket.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4195,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Pocket.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Pocket.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Retina-Ready.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10433,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Retina-Ready.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Retina-Ready.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Toilet-Paper.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4125,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Toilet-Paper.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Toilet-Paper.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Watches.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11612,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Watches.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/icons\/png\/Watches.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/login\/icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7510,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/login\/icon.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/login\/icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/login\/imac-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22288,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/login\/imac-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/login\/imac-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/login\/imac.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7843,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/login\/imac.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/login\/imac.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/switch\/mask-square.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1055,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/switch\/mask-square.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/switch\/mask-square.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/switch\/mask.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1353,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/switch\/mask.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/switch\/mask.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/tile\/ribbon-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4342,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/tile\/ribbon-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/tile\/ribbon-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/tile\/ribbon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2836,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/tile\/ribbon.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/tile\/ribbon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/done-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1700,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/done-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/done-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/done.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1293,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/done.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/done.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/search-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1522,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/search-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/search-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/search.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1213,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/search.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/search.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/todo-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1401,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/todo-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/todo-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/todo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1134,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/todo.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/todo\/todo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/fullscreen-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1261,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/fullscreen-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/fullscreen-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/fullscreen.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1254,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/fullscreen.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/fullscreen.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/pause-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1122,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/pause-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/pause-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/pause.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1090,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/pause.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/pause.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/play-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1263,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/play-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/play-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/play.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1175,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/play.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/play.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/poster.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51689,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/poster.jpg",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/poster.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-full-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1504,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-full-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-full-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-full.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1221,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-full.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-full.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-off-2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1197,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-off-2x.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-off-2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-off.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1145,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-off.png",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/images\/video\/volume-off.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/application.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/application.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/application-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/bootstrap-select.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/bootstrap-select.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/bootstrap-select-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/bootstrap-switch.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/bootstrap-switch.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/bootstrap-switch-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/bootstrap.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/bootstrap.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/flatui-checkbox.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/flatui-checkbox.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/flatui-checkbox-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/flatui-radio.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/flatui-radio.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/flatui-radio-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/html5shiv.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/html5shiv.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/html5shiv-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/icon-font-ie7.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/icon-font-ie7.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/icon-font-ie7-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery-1.10.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery-1.10.2.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/jquery-1.10.2.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery-1.8.3.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery-1.8.3.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/jquery-1.8.3.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery-2.0.3.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery-2.0.3.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/jquery-2.0.3.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery-ui-1.10.3.custom.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery-ui-1.10.3.custom.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/jquery-ui-1.10.3.custom.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery.placeholder.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery.placeholder.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/jquery.placeholder-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery.tagsinput.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery.tagsinput.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/jquery.tagsinput-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery.ui.touch-punch.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/jquery.ui.touch-punch.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/jquery.ui.touch-punch.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/respond.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/respond.min.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/respond.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/typeahead.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/typeahead.js",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/js\/min\/typeahead-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/demo.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/demo.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/demo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/docs.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/docs.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/docs.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/flat-ui.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/flat-ui.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/flat-ui.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/mixins.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/mixins.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/mixins.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/button-groups.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/button-groups.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/button-groups.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/buttons.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/buttons.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/buttons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/caret.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/caret.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/caret.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/checkbox-and-radio.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/checkbox-and-radio.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/checkbox-and-radio.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/code.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/code.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/code.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/dropdown.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/dropdown.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/dropdown.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/footer.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/footer.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/footer.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/forms.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/forms.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/forms.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/glyphicons.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/glyphicons.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/glyphicons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/input-groups.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/input-groups.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/input-groups.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/input-icons.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/input-icons.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/input-icons.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/local-fonts.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/local-fonts.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/local-fonts.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/login.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/login.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/login.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/navbar.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/navbar.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/navbar.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/pager.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/pager.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/pager.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/pagination.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/pagination.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/pagination.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/palette.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/palette.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/palette.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/progress-bars.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/progress-bars.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/progress-bars.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/scaffolding.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/scaffolding.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/scaffolding.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/select.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/select.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/select.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/share.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/share.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/share.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/slider.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/slider.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/slider.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/switch.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/switch.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/switch.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/tagsinput.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/tagsinput.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/tagsinput.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/thumbnails.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/thumbnails.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/thumbnails.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/tile.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/tile.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/tile.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/todo.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/todo.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/todo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/tooltip.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/tooltip.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/tooltip.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/type.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/type.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/type.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/typeahead.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/typeahead.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/typeahead.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/video.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/modules\/video.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/css\/video.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/spaces.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/spaces.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/spaces.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/variables.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/less\/variables.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/css\/variables.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/README.md",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/template.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/flat-ui\/template.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-contacts\/less\/contact-5.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-contacts\/less\/contact-5.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-contacts\/css\/contact-5.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-11.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-11.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/css\/content-11.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-15.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-15.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/css\/content-15.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-17.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-17.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/css\/content-17.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-23.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-23.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/css\/content-23.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-29.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-29.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/css\/content-29.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-5.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/less\/content-5.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-content\/css\/content-5.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-crew\/less\/crew-2.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-crew\/less\/crew-2.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-crew\/css\/crew-2.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-crew\/less\/crew-4.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-crew\/less\/crew-4.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-crew\/css\/crew-4.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-footer\/less\/footer-13.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-footer\/less\/footer-13.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-footer\/css\/footer-13.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-header\/less\/header-10.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-header\/less\/header-10.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-header\/css\/header-10.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-price\/less\/price-5.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-price\/less\/price-5.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-price\/css\/price-5.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-price\/less\/price-common.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-price\/less\/price-common.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-price\/css\/price-common.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-projects\/less\/project-4.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-projects\/less\/project-4.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-projects\/css\/project-4.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-projects\/less\/project-common.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-projects\/less\/project-common.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/startup\/ui-kit\/ui-kit-projects\/css\/project-common.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/static\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/static\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/static\/less\/style.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/static\/less\/style.less",
+		"outputAbbreviatedPath": "\/Users\/Matt\/Dropbox\/Business\/Lift22 Creative, LLC\/Clients\/crossfit spearhead\/website design\/06 - Code\/repo\/crossfit-spearhead\/static\/css\/style.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Matt Anderson",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "crossfit-spearhead",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "brackets_orange"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 1,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 1,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 5,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
