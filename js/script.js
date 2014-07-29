@@ -30,6 +30,27 @@ function fadedEls(el, shift) {
 
 (function($) {
     $(function() {
+        var isMobile = {
+            Android: function() {
+                return navigator.userAgent.match(/Android/i);
+            },
+            BlackBerry: function() {
+                return navigator.userAgent.match(/BlackBerry/i);
+            },
+            iOS: function() {
+                return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+            },
+            Opera: function() {
+                return navigator.userAgent.match(/Opera Mini/i);
+            },
+            Windows: function() {
+                return navigator.userAgent.match(/IEMobile/i);
+            },
+            any: function() {
+                return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+            }
+        };
+        
         // Sections height & scrolling
         $(window).resize(function() {
             var sH = $(window).height();
@@ -37,8 +58,24 @@ function fadedEls(el, shift) {
            // $('section:not(.header-10-sub):not(.content-11)').css('height', sH + 'px');
         });        
 
-        // Parallax
+        $('.header-10-sub .scroll-btn a').on('click', function(e) {
+            e.preventDefault();
+            $.scrollTo($(this).closest('section').next(), {
+                axis : 'y',
+                duration : 500
+            });
+            return false;
+        });
 
+        $('.nav').find('a').on('click', function(e) {
+            e.preventDefault();
+            $.scrollTo($('#' + $(this).data('section')), {
+                axis : 'y',
+                duration : 500
+            });
+        });
+
+        // Parallax
         $('.header-10-sub, .content-23.custom-bg').each(function() {
             if(! isMobile.any())
             $(this).parallax('50%', 0.3, true);

@@ -22,12 +22,12 @@
         }
         .title {
             padding: 32px 0 40px;
-            background: @brand-secondary;
+            background: @base-color;
             color: #fff;
             font-family: @font-family-demo;
             font-size: 16px;
             font-weight: 500;
-            letter-spacing: 3px;
+            letter-spacing: 2px;
             white-space: nowrap;
             .price {
                 font-size: 40px;
@@ -101,16 +101,16 @@
             }
         }
         .plan-2 {
-            border-left: 2px solid #e5e5e5;
-            border-right: 2px solid #e5e5e5;
+            border-left: 2px solid #EBEDEE;
+            border-right: 2px solid #EBEDEE;
             .title {
                 margin: 0 -2px;
-                border-left: 2px solid #17a98c;
-                border-right: 2px solid #17a98c;
+                border-left: 2px solid @brand-secondary;
+                border-right: 2px solid @brand-secondary;
             }
         }
         .plan:hover {
-            background-color: rgba(26, 188, 156, 0.05);
+            background-color: rgba(186, 58, 58, 0.05);
             .description {
                 .opacity(0);
             }
@@ -154,7 +154,7 @@
         line-height: 18px;
         a {
             text-decoration: underline;
-            color: #1abc9c;
+            color: @base-color;
             font-weight: normal;
             &:hover {
                 text-decoration: none;
