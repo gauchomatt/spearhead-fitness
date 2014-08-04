@@ -13,6 +13,9 @@
 	<link rel="stylesheet" href="startup/common-files/css/animations.css">
 	<link rel="stylesheet" href="static/css/style.css">
 
+	<!-- jQuery -->
+	<script src="startup/common-files/js/jquery-1.10.2.min.js"></script>
+
 	<script type="text/javascript" src="//use.typekit.net/bha1xoy.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
@@ -36,8 +39,8 @@
 								<li><a data-section="pricing-section" href="#">Pricing</a></li>
 								<li><a data-section="contact-section" href="#">Contact</a></li>
 							</ul>
-							<form class="navbar-form pull-left">
-								<a class="btn btn-danger" target="_blank" href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=34108">Sign Up</a>
+							<form class="nav-scroll navbar-form pull-left">
+								<a data-section="contact-form" href="#" class="btn btn-danger">Sign Up</a>
 							</form>
 						</div>
 					</div>
@@ -143,8 +146,8 @@
 		<!-- CTA -->
 		<section class="content-11">
 			<div class="container">
-				<span>It's time to take over you body. Experience Spearhead!</span>
-				<a class="btn btn-large btn-danger" target="_blank" href="https://clients.mindbodyonline.com/ASP/home.asp?studioid=34108">Sign Up Today</a>
+				<span>It's time to take over your body. Experience Spearhead!</span>
+				<a data-section="contact-form" class="btn btn-large btn-danger" href="#">Sign Up Today</a>
 			</div>
 		</section>
 
@@ -165,12 +168,14 @@
 							</div>
 							<div class="info">
 								<div class="name">Coach Dallin Frampton</div>
-								As a 23 year old resident of Holladay, Utah, Dallin is the owner of CrossFit SpearHead and is an avid runner, mountain biker, rock climber, triathlete, mountaineer, skier, surfer and adventurer. He has participated in 2 marathons and a handful of triathlons, 2 of which he got 1st and 2nd place in his age group. He has also run the Wasatch Back relay four different times, competed in 12 half marathons and ridden the White rim trail 4 different times, 3 of the attempts were under 16 hours. Dallin has been coaching CrossFit athletes for close to 4 years now and has an amazing passion for his athletes and the completion of their goals through fitness, nutrition and life.<br><br>
-								
-								After graduating in 2008, he raised over $10,000 to build a school in the village of Dzivani, just outside of Mombasa, Kenya. After he received funding from Crossfit Headquarters to build another school, Coach Glassman brought him on board to work for CrossFit HQ staff and Dallin is now Project Lead on this effort to build schools, water cisterns, desks and the like in rural Kenya, and also oversees all of the philanthropic work CrossFit HQ takes part in. Besides letting his adrenaline lead him through life, he also loves music and has been playing guitar for over 9 years.
+								As a 24 year old resident of Holladay, Utah, Dallin, and his beautiful wife, Carlyn, are the Owners of CrossFit SpearHead. Dallin is an avid runner, mountain biker, rock climber, triathlete, mountaineer, skier, surfer and adventurer. He has participated in 2 marathons and a handful of triathlons, 2 of which he got 1st and 2nd place in his age group. He has also run the Wasatch Back relay four different times, competed in 12 half marathons and ridden the White rim trail 4 different times, 3 of the attempts were under 16 hours. When he was training to tryout for the USA amateur triathlon team in 2009, Dallin was introduced to CrossFit and began coaching athletes just 18 months later. Not only does he enjoy the competent and measurable aspect of CrossFit, but Dallin also has an amazing passion for his athletes and the completion of their goals through fitness, nutrition and life.<br><br>
+
+								After graduating in 2008, he raised over $10,000 to build a school in the village of Dzivani, just outside of Mombasa, Kenya. After he received funding from CrossFit Headquarters to build another school, Coach Greg Glassman brought him on board to work for CrossFit HQ staff and Dallin is now Project Lead on this effort to build schools, water cisterns, desks and the like in rural Kenya, and also oversees all of the philanthropic work CrossFit HQ takes part in. Besides letting his adrenaline lead him through life, he also loves music and has been playing guitar for over 9 years.<br><br>
+
+								During the Fall months of 2011, Dallin was able to meet the woman of his dreams and in June 2013, he was married to his beautiful and amazing bride, Carlyn Frampton, and they now are able to run a gym full of passionate, spirited people that they love coaching every single day. Dallin is so grateful to have such a hard-working and spirited elite-athlete like Carlyn supporting him in everything he does, especially when it comes to running the gym!
 
 								<div class="contacts">
-									CrossFit Level One / CrossFit Strongman / CrossFit Running and Endurance CrossFit Kids / CrossFit Power Lifting / CrossFit Olympic Lifting / CrossFit Mobility / CrossFit Football / CrossFit Gymnastics
+									CrossFit Level One / CrossFit Strongman / CrossFit Running and Endurance / CrossFit Kids / CrossFit Power Lifting / CrossFit Olympic Lifting / CrossFit Mobility / CrossFit Football / CrossFit Gymnastics / CrossFit Coach's Prep
 								</div>
 							</div>
 						</div>
@@ -414,7 +419,7 @@
 		<section class="price-5">
 			<div class="container">
 				<div class="row">
-					<h3 class="col-sm-10 col-sm-offset-1">We offer introductory class to ensure your movments and technique are spot on before moving on to the advanded workouts. Injury free is the only way to be!</h3>
+					<h3 class="col-sm-10 col-sm-offset-1">We offer introductory classe to ensure your movments and technique are spot on before moving on to the advanded workouts. Injury free is the only way to be!</h3>
 				</div>
 				<div class="plans">
 					<div class="plan">
@@ -469,11 +474,186 @@
 
 							<div class="description-more">
 								<big>It's a Sad Day</big>
-								<p class="info">Send hold/cancel requests to us by clicking below:</p>
+								<p class="info">Send requests to us by clicking below:</p>
 								<a class="btn btn-danger" href="mailto:crossfitspearhead@gmail.com?subject=Cancel / Hold Membership Request">Contact Us</a>
 							</div>
 						</div>
 					</div>
+				</div>
+			</section>
+
+			<!-- Wodify Form -->
+			<section class="contacts-1" id="contact-form">
+				<div class="container">
+					<div class="row">
+						<h1 class="col-sm-10 col-sm-offset-1">Sign up Today!</h1>
+					</div>
+					<div class="row">
+						<h3 class="col-sm-10 col-sm-offset-1">It's time to stop talking and time to change your life. Join today and experience the Spearhead difference!</h3>
+					</div>
+					<script type='text/javascript'>
+						function validateWodifyLeadForm()
+						{
+							var reEmail = /^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,3})$/;
+							var returnValue = true;
+
+							var fieldname = document.forms['wodifyLeadForm']['name'].value;
+							if(fieldname == null || fieldname == '')
+							{
+								document.getElementById('errorname').style.display = 'inline';
+								returnValue = false;
+							}
+							else
+							{
+								document.getElementById('errorname').style.display = 'none';
+							}
+
+
+
+							var fieldemail = document.forms['wodifyLeadForm']['email'].value;
+							if(fieldemail == null || fieldemail == '' || !reEmail.test(fieldemail))
+							{
+								document.getElementById('erroremail').style.display = 'inline';
+								returnValue = false;
+							}
+							else
+							{
+								document.getElementById('erroremail').style.display = 'none';
+							}
+
+
+
+							var validationUrl = '//app.wodify.com/API/WebToLeadCaptchaVerificationEntry.aspx?ChallengeField=' + document.getElementById('recaptcha_challenge_field').value + String.fromCharCode(38) + 'ResponseField=' + document.getElementById('recaptcha_response_field').value;
+
+							var xmlhttp = new XMLHttpRequest();
+							xmlhttp.open('GET', validationUrl, false);
+							xmlhttp.send();
+							var captchaResult = JSON.parse(xmlhttp.responseText);
+							if (captchaResult.result)
+							{
+								document.getElementById('errorCAPTCHA').style.display = 'none';
+								document.getElementById('usecaptcha').value = 'false';
+							}
+							else
+							{
+								document.getElementById('errorCAPTCHA').style.display = 'inline';
+								document.getElementById('usecaptcha').value = 'true';
+								returnValue = false;
+							}
+
+
+							return returnValue;
+						};
+					</script>
+					<form action="https://app.wodify.com/API/WebToLeadFormPostEntry_v1.aspx?" method="POST" id="wodifyLeadForm" name="wodifyLeadForm" onsubmit="return validateWodifyLeadForm();">
+					<div class="row">
+						<div class="col-sm-6">
+						
+							<label class="h6" for="name">*Name / Last Name</label>
+							<span id="errorname" name="errorname" style="display: none; background: #BA3A3A; border-radius: 3px; margin-left: 10px; padding: 4px 10px; color: white;"> Required field!</span>
+							<input class="form-control" type="text" name="name" maxlength="50">
+
+							<label class="h6" for="email">*Email</label>
+							<span id="erroremail" name="erroremail" style="display: none; background: #BA3A3A; border-radius: 3px; margin-left: 10px; padding: 4px 10px; color: white;"> Required field!</span>
+							<input class="form-control" type="email" name="email" maxlength="250">
+
+							<label class="h6" for="phone">Phone</label>
+							<input class="form-control" type="tel" name="phone" maxlength="20">
+
+							<label class="h6" for="city">City</label>
+							<input class="form-control" type="text" name="city" maxlength="50">
+
+							<label class="h6" for="state">State</label>
+							<select class="form-control" name="state">
+								<option value="">Select a state...</option>
+								<option value="24">Alaska</option>
+								<option value="22">Alabama</option>
+								<option value="20">Arkansas</option>
+								<option value="11">Arizona</option>
+								<option value="21">California</option>
+								<option value="32">Colorado</option>
+								<option value="12">Connecticut</option>
+								<option value="44">District of Columbia</option>
+								<option value="9">Delaware</option>
+								<option value="39">Florida</option>
+								<option value="34">Georgia</option>
+								<option value="19">Hawaii</option>
+								<option value="49">Iowa</option>
+								<option value="40">Idaho</option>
+								<option value="23">Illinois</option>
+								<option value="5">Indiana</option>
+								<option value="25">Kansas</option>
+								<option value="30">Kentucky</option>
+								<option value="48">Louisiana</option>
+								<option value="6">Massachusetts</option>
+								<option value="1">Maryland</option>
+								<option value="50">Maine</option>
+								<option value="33">Michigan</option>
+								<option value="27">Minnesota</option>
+								<option value="2">Missouri</option>
+								<option value="36">Mississippi</option>
+								<option value="18">Montana</option>
+								<option value="8">North Carolina</option>
+								<option value="29">North Dakota</option>
+								<option value="35">Nebraska</option>
+								<option value="31">New Hampshire</option>
+								<option value="38">New Jersey</option>
+								<option value="43">New Mexico</option>
+								<option value="10">Nevada</option>
+								<option value="3">New York</option>
+								<option value="47">Ohio</option>
+								<option value="42">Oklahoma</option>
+								<option value="28">Oregon</option>
+								<option value="51">Pennsylvania</option>
+								<option value="13">Rhode Island</option>
+								<option value="45">South Carolina</option>
+								<option value="17">South Dakota</option>
+								<option value="37">Tennessee</option>
+								<option value="15">Texas</option>
+								<option value="41">Utah</option>
+								<option value="16">Virginia</option>
+								<option value="4">Vermont</option>
+								<option value="7">Washington</option>
+								<option value="26">Wisconsin</option>
+								<option value="46">West Virginia</option>
+								<option value="14">Wyoming</option>
+							</select>
+						</div>
+						<div class="col-sm-6">
+							<label class="h6" for="leadsource">How Did You Hear About Us?</label>
+							<select class="form-control" name="leadsource">
+								<option value="">Select an option...</option>
+								<option value="55260">Friend/Family</option>
+								<option value="55261">Facebook</option>
+								<option value="55262">Google/Search Engine</option>
+								<option value="55263">SMS</option>
+								<option value="55264">Online Sales</option>
+								<option value="55265">Other</option>
+							</select>
+
+							<label class="h6" for="referredby">Referred By</label>
+							<input class="form-control" type="text" name="referredby" maxlength="1000">
+
+							<label class="h6" for="comments">Comments</label>
+							<textarea class="form-control" name="comments" maxlength="2000" rows="4"></textarea>
+
+							<script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6Lc59ucSAAAAAEd8XfTJJBULRcUyfPC6_DvtkXFo"></script>
+							<noscript>
+								<iframe src="http://www.google.com/recaptcha/api/noscript?k=6Lc59ucSAAAAAEd8XfTJJBULRcUyfPC6_DvtkXFo" height="300" width="500" frameborder="0"></iframe><br>
+								<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+								<input type="hidden" name="recaptcha_response_field" value="manual_challenge" style="height:auto!important;">
+							</noscript>
+
+							<span id="errorCAPTCHA" name="errorCAPTCHA" style="display: none; color: #BA3A3A;"> Incorrect answer!</span>
+							<input type="hidden" id="usecaptcha" name="usecaptcha" value="true">
+							<input type="hidden" name="apikey" value="g0c27d7ioy">
+						</div>
+					</div>
+					<div class="row">
+						<hr>
+						<button type="submit" class="btn btn-danger col-sm-12"><span class="fui-mail"></span></button>
+					</div>
+					</form>
 				</div>
 			</section>
 
@@ -522,7 +702,6 @@
 				</div>
 			</footer>            
 			<!-- Placed at the end of the document so the pages load faster -->
-			<script src="startup/common-files/js/jquery-1.10.2.min.js"></script>
 			<script src="startup/common-files/js/jquery.bxslider.min.js"></script>
 			<script src="startup/common-files/js/jquery.scrollTo-1.4.3.1-min.js"></script>
 			<script src="startup/common-files/js/jquery.sharrre.min.js"></script>

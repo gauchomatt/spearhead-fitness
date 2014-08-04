@@ -67,7 +67,7 @@ function fadedEls(el, shift) {
             return false;
         });
 
-        $('.nav').find('a').on('click', function(e) {
+        $('.nav, .nav-scroll').find('a').on('click', function(e) {
             e.preventDefault();
             $.scrollTo($('#' + $(this).data('section')), {
                 axis : 'y',
