@@ -2318,6 +2318,26 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/startup\/ui-kit\/ui-kit-contacts\/less\/contact-1.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/startup\/ui-kit\/ui-kit-contacts\/less\/contact-1.less",
+		"outputAbbreviatedPath": "\/startup\/ui-kit\/ui-kit-contacts\/css\/contact-1.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
 	"\/startup\/ui-kit\/ui-kit-contacts\/less\/contact-5.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 1,
