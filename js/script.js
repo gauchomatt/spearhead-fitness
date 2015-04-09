@@ -67,11 +67,19 @@ function fadedEls(el, shift) {
             return false;
         });
 
-        $('.nav, .nav-scroll').find('a').on('click', function(e) {
+        $('.header-10-sub .hero-unit a').on('click', function(e) {
             e.preventDefault();
             $.scrollTo($('#' + $(this).data('section')), {
                 axis : 'y',
                 duration : 500
+            });
+        });
+
+        $('.nav, .nav-scroll').find('a').on('click', function(e) {
+            $.scrollTo($('#' + $(this).data('section')), {
+                axis : 'y',
+                duration : 500,
+                filter: ':not(.external)'
             });
         });
 
