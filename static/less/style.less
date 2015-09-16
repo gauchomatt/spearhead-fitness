@@ -62,7 +62,11 @@ body {
 			margin: 0;
 		}
 		.brand {
-			width: 170px;
+			width: 230px;
+			@media (max-width: 480px) {
+				width: 200px;
+				margin-top: 10px;
+			}
 		}
 	}
 	.header-background {
@@ -77,15 +81,25 @@ body {
 		h1 {
 			font-weight: 600;
 			letter-spacing: 0;
+			margin-bottom: 10px;
+			@media (max-width: 480px) {
+				font-size: 26px;
+			}
 		}
 		p {
 			font-weight: 100;
-			margin-bottom: 30px;
+			margin-bottom: 50px;
+			@media (max-width: 480px) {
+				margin-bottom: 30px;
+				line-height: 28px;
+				font-size: 18px;
+			}
 		}
 		span {
 			display: block;
 			text-align: center;
 			margin-bottom: 20px;
+			margin-top: 20px;
 		}
 		a {
 			margin-bottom: 5px;
@@ -96,6 +110,10 @@ body {
 			border: 2px solid #ffffff;
 			background-color: transparent;
 			margin-right: 5px;
+			@media (max-width: 480px) {
+				padding: 4px 10px;
+				font-size: 11px !important;
+			}
 			.transition(opacity .4s);
 			&:hover {
 				.opacity(60);
