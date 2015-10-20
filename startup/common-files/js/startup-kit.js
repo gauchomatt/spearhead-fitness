@@ -646,8 +646,8 @@ startupKit.attachBgVideo = function() {
             "holder": "#bgVideo",
             "align" : "centerXY",
             "path" : "video/",
-            "width": 854,
-            "height": 480,
+            "width": 1920,
+            "height": 1080,
             "filename" : "preview",
             "types" : ["mp4", "ogg", "webm"]
         });

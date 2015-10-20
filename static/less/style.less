@@ -6,6 +6,7 @@
 @import '../../startup/common-files/less/helper.less';
 @import '../../startup/common-files/less/navbar.less';
 @import '../../startup/ui-kit/ui-kit-header/less/header-10.less';
+@import '../../startup/ui-kit/ui-kit-header/less/header-23.less';
 @import '../../startup/ui-kit/ui-kit-content/less/content-5.less';
 @import '../../startup/ui-kit/ui-kit-content/less/content-23.less';
 @import '../../startup/ui-kit/ui-kit-content/less/content-17.less';
@@ -54,6 +55,11 @@ body {
 
 // Sections
 // =================================================================================
+.header-23 {
+	.navbar {
+		top: 0;
+	}
+}
 .header-10 {
 	height: 0;
 	.navbar {
@@ -62,7 +68,11 @@ body {
 			margin: 0;
 		}
 		.brand {
-			width: 170px;
+			width: 230px;
+			@media (max-width: 480px) {
+				width: 200px;
+				margin-top: 10px;
+			}
 		}
 	}
 	.header-background {
@@ -71,21 +81,32 @@ body {
 }
 .header-10-sub {
 	.background {
-		background-image: url("../../img/primary-hero-crossfit.jpg");
+		// background-image: url("../../img/primary-hero-crossfit.jpg");
 	}
 	.hero-unit {
 		h1 {
 			font-weight: 600;
 			letter-spacing: 0;
+			margin-bottom: 10px;
+			margin-top: 30px;
+			@media (max-width: 480px) {
+				font-size: 26px;
+			}
 		}
 		p {
 			font-weight: 100;
-			margin-bottom: 30px;
+			margin-bottom: 50px;
+			@media (max-width: 480px) {
+				margin-bottom: 30px;
+				line-height: 28px;
+				font-size: 18px;
+			}
 		}
 		span {
 			display: block;
 			text-align: center;
 			margin-bottom: 20px;
+			margin-top: 20px;
 		}
 		a {
 			margin-bottom: 5px;
@@ -96,6 +117,10 @@ body {
 			border: 2px solid #ffffff;
 			background-color: transparent;
 			margin-right: 5px;
+			@media (max-width: 480px) {
+				padding: 4px 10px;
+				font-size: 11px !important;
+			}
 			.transition(opacity .4s);
 			&:hover {
 				.opacity(60);
