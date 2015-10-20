@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19051",
+"creatorBuild": "19076",
 "files": {
 	"\/img\/coach-pics-dallin.png": {
 		"fileType": 32768,
@@ -45,17 +45,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
-		},
-	"\/img\/coach-pics-sean.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 120370,
-		"inputAbbreviatedPath": "\/img\/coach-pics-sean.png",
-		"outputAbbreviatedPath": "\/img\/coach-pics-sean.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
 		},
 	"\/img\/crossfit-kids.png": {
 		"fileType": 32768,
@@ -390,6 +379,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/startup\/common-files\/img\/header\/btn-play.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2990,
+		"inputAbbreviatedPath": "\/startup\/common-files\/img\/header\/btn-play.png",
+		"outputAbbreviatedPath": "\/startup\/common-files\/img\/header\/btn-play.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/startup\/common-files\/img\/header\/img-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -397,6 +397,17 @@
 		"initialSize": 294400,
 		"inputAbbreviatedPath": "\/startup\/common-files\/img\/header\/img-3.jpg",
 		"outputAbbreviatedPath": "\/startup\/common-files\/img\/header\/img-3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/startup\/common-files\/img\/header\/img-video.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 268288,
+		"inputAbbreviatedPath": "\/startup\/common-files\/img\/header\/img-video.jpg",
+		"outputAbbreviatedPath": "\/startup\/common-files\/img\/header\/img-video.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -517,6 +528,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/startup\/common-files\/js\/masonry.pkgd.min.js",
 		"outputAbbreviatedPath": "\/startup\/common-files\/js\/min\/masonry.pkgd.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/startup\/common-files\/js\/min\/startup-kit-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/startup\/common-files\/js\/min\/startup-kit-min.js",
+		"outputAbbreviatedPath": "\/startup\/common-files\/js\/min\/min\/startup-kit-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -2600,6 +2622,26 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/startup\/ui-kit\/ui-kit-header\/less\/header-23.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/startup\/ui-kit\/ui-kit-header\/less\/header-23.less",
+		"outputAbbreviatedPath": "\/startup\/ui-kit\/ui-kit-header\/css\/header-23.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
 	"\/startup\/ui-kit\/ui-kit-price\/less\/price-5.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 1,
@@ -3347,7 +3389,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
