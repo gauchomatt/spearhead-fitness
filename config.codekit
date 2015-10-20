@@ -46,6 +46,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/coach-pics-sean.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 112662,
+		"inputAbbreviatedPath": "\/img\/coach-pics-sean.png",
+		"outputAbbreviatedPath": "\/img\/coach-pics-sean.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/crossfit-kids.png": {
 		"fileType": 32768,
 		"ignore": 0,
