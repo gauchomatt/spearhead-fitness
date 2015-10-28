@@ -2563,6 +2563,13 @@ body {
   background: url("../../img/crossfit-spearhead-gym.jpg") no-repeat center center fixed;
   background-size: cover;
 }
+.content-15 .promo {
+  max-width: 200px;
+  text-align: center;
+  display: block;
+  width: 100%;
+  margin: 0 auto 20px auto;
+}
 .content-17 {
   background: #ebebeb;
   padding-bottom: 80px;

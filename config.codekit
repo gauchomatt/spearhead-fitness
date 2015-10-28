@@ -11,7 +11,7 @@
 		"outputAbbreviatedPath": "\/img\/coach-pics-dallin.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/coach-pics-gavin.png": {
 		"fileType": 32768,
@@ -22,29 +22,18 @@
 		"outputAbbreviatedPath": "\/img\/coach-pics-gavin.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
-	"\/img\/coach-pics-mike.png": {
+	"\/img\/coach-pics-jeremy.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 148270,
-		"inputAbbreviatedPath": "\/img\/coach-pics-mike.png",
-		"outputAbbreviatedPath": "\/img\/coach-pics-mike.png",
+		"initialSize": 159473,
+		"inputAbbreviatedPath": "\/img\/coach-pics-jeremy.png",
+		"outputAbbreviatedPath": "\/img\/coach-pics-jeremy.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/img\/coach-pics-scotty.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 130293,
-		"inputAbbreviatedPath": "\/img\/coach-pics-scotty.png",
-		"outputAbbreviatedPath": "\/img\/coach-pics-scotty.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/coach-pics-sean.png": {
 		"fileType": 32768,
@@ -53,6 +42,17 @@
 		"initialSize": 112662,
 		"inputAbbreviatedPath": "\/img\/coach-pics-sean.png",
 		"outputAbbreviatedPath": "\/img\/coach-pics-sean.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/coach-pics-zain.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132963,
+		"inputAbbreviatedPath": "\/img\/coach-pics-zain.png",
+		"outputAbbreviatedPath": "\/img\/coach-pics-zain.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -111,6 +111,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/img\/ksl-promo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38711,
+		"inputAbbreviatedPath": "\/img\/ksl-promo.png",
+		"outputAbbreviatedPath": "\/img\/ksl-promo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/img\/primary-hero-crossfit.jpg": {
 		"fileType": 16384,
