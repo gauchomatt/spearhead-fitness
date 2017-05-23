@@ -99,7 +99,7 @@
 		"oAP": "\/img\/crossfit-race@2x.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/crossfit-spearhead-gym-kids.jpg": {
@@ -109,7 +109,7 @@
 		"oAP": "\/img\/crossfit-spearhead-gym-kids.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/crossfit-spearhead-gym-members.jpg": {
@@ -2978,7 +2978,7 @@
 		},
 	"\/static\/css\/style.css.map": {
 		"ft": 8192,
-		"oA": 2,
+		"oA": 1,
 		"oAP": "\/static\/css\/style.css.map",
 		"oF": 0
 		},
