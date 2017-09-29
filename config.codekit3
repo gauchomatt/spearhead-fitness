@@ -7,13 +7,24 @@
 		"uuidString": "29BD6380-D60E-4F91-8406-41F19B321CE0"
 		}
 	],
-"creatorBuild": "25813",
+"creatorBuild": "25900",
 "files": {
 	"\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/favicon.ico",
 		"oF": 0
+		},
+	"\/img\/coach-pics-carlyn.png": {
+		"ft": 32768,
+		"iS": 45310,
+		"oA": 0,
+		"oAP": "\/img\/coach-pics-carlyn.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/img\/coach-pics-dallin.png": {
 		"ft": 32768,
@@ -48,11 +59,55 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/img\/coach-pics-jonny.png": {
+		"ft": 32768,
+		"iS": 119660,
+		"oA": 0,
+		"oAP": "\/img\/coach-pics-jonny.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/coach-pics-katy.png": {
+		"ft": 32768,
+		"iS": 114418,
+		"oA": 0,
+		"oAP": "\/img\/coach-pics-katy.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/coach-pics-scot.png": {
+		"ft": 32768,
+		"iS": 118147,
+		"oA": 0,
+		"oAP": "\/img\/coach-pics-scot.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/coach-pics-sean.png": {
 		"ft": 32768,
 		"iS": 112662,
 		"oA": 0,
 		"oAP": "\/img\/coach-pics-sean.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/coach-pics-summer.png": {
+		"ft": 32768,
+		"iS": 102925,
+		"oA": 0,
+		"oAP": "\/img\/coach-pics-summer.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -141,6 +196,17 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/img\/dallin-carlyn.png": {
+		"ft": 32768,
+		"iS": 49856,
+		"oA": 0,
+		"oAP": "\/img\/dallin-carlyn.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/ksl-promo.png": {
 		"ft": 32768,
 		"iS": 38711,
@@ -180,6 +246,7 @@
 		},
 	"\/js\/dug.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/dug-min.js",
@@ -189,6 +256,7 @@
 		},
 	"\/js\/min\/script-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/js\/min\/script-min-min.js",
@@ -198,6 +266,7 @@
 		},
 	"\/js\/script.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/script-min.js",
@@ -529,6 +598,7 @@
 		},
 	"\/startup\/common-files\/js\/easing.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/easing.min-min.js",
@@ -538,6 +608,7 @@
 		},
 	"\/startup\/common-files\/js\/froogaloop.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/froogaloop.min-min.js",
@@ -547,6 +618,7 @@
 		},
 	"\/startup\/common-files\/js\/jquery-1.10.2.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/jquery-1.10.2.min-min.js",
@@ -556,6 +628,7 @@
 		},
 	"\/startup\/common-files\/js\/jquery.backgroundvideo.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/jquery.backgroundvideo.min-min.js",
@@ -565,6 +638,7 @@
 		},
 	"\/startup\/common-files\/js\/jquery.bxslider.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/jquery.bxslider.min-min.js",
@@ -574,6 +648,7 @@
 		},
 	"\/startup\/common-files\/js\/jquery.parallax.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/jquery.parallax.min-min.js",
@@ -583,6 +658,7 @@
 		},
 	"\/startup\/common-files\/js\/jquery.scrollTo-1.4.3.1-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/jquery.scrollTo-1.4.3.1-min-min.js",
@@ -592,6 +668,7 @@
 		},
 	"\/startup\/common-files\/js\/jquery.sharrre.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/jquery.sharrre.min-min.js",
@@ -601,6 +678,7 @@
 		},
 	"\/startup\/common-files\/js\/jquery.svg.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/jquery.svg-min.js",
@@ -610,6 +688,7 @@
 		},
 	"\/startup\/common-files\/js\/jquery.svganim.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/jquery.svganim-min.js",
@@ -619,6 +698,7 @@
 		},
 	"\/startup\/common-files\/js\/masonry.pkgd.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/masonry.pkgd.min-min.js",
@@ -628,6 +708,7 @@
 		},
 	"\/startup\/common-files\/js\/min\/startup-kit-min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/startup\/common-files\/js\/min\/startup-kit-min-min.js",
@@ -637,6 +718,7 @@
 		},
 	"\/startup\/common-files\/js\/modernizr.custom.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/modernizr.custom-min.js",
@@ -646,6 +728,7 @@
 		},
 	"\/startup\/common-files\/js\/page-transitions.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/page-transitions-min.js",
@@ -655,6 +738,7 @@
 		},
 	"\/startup\/common-files\/js\/startup-kit.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/js\/startup-kit-min.js",
@@ -853,6 +937,7 @@
 		},
 	"\/startup\/flat-ui\/bootstrap\/js\/application.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/bootstrap\/js\/application-min.js",
@@ -862,6 +947,7 @@
 		},
 	"\/startup\/flat-ui\/bootstrap\/js\/google-code-prettify\/prettify.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/bootstrap\/js\/google-code-prettify\/prettify-min.js",
@@ -871,6 +957,7 @@
 		},
 	"\/startup\/flat-ui\/bootstrap\/js\/holder.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/bootstrap\/js\/holder-min.js",
@@ -1843,6 +1930,7 @@
 		},
 	"\/startup\/flat-ui\/js\/application.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/application-min.js",
@@ -1852,6 +1940,7 @@
 		},
 	"\/startup\/flat-ui\/js\/bootstrap-select.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/bootstrap-select-min.js",
@@ -1861,6 +1950,7 @@
 		},
 	"\/startup\/flat-ui\/js\/bootstrap-switch.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/bootstrap-switch-min.js",
@@ -1870,6 +1960,7 @@
 		},
 	"\/startup\/flat-ui\/js\/bootstrap.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/bootstrap.min-min.js",
@@ -1879,6 +1970,7 @@
 		},
 	"\/startup\/flat-ui\/js\/flatui-checkbox.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/flatui-checkbox-min.js",
@@ -1888,6 +1980,7 @@
 		},
 	"\/startup\/flat-ui\/js\/flatui-radio.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/flatui-radio-min.js",
@@ -1897,6 +1990,7 @@
 		},
 	"\/startup\/flat-ui\/js\/html5shiv.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/html5shiv-min.js",
@@ -1906,6 +2000,7 @@
 		},
 	"\/startup\/flat-ui\/js\/icon-font-ie7.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/icon-font-ie7-min.js",
@@ -1915,6 +2010,7 @@
 		},
 	"\/startup\/flat-ui\/js\/jquery-1.10.2.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/jquery-1.10.2.min-min.js",
@@ -1924,6 +2020,7 @@
 		},
 	"\/startup\/flat-ui\/js\/jquery-1.8.3.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/jquery-1.8.3.min-min.js",
@@ -1933,6 +2030,7 @@
 		},
 	"\/startup\/flat-ui\/js\/jquery-2.0.3.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/jquery-2.0.3.min-min.js",
@@ -1942,6 +2040,7 @@
 		},
 	"\/startup\/flat-ui\/js\/jquery-ui-1.10.3.custom.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/jquery-ui-1.10.3.custom.min-min.js",
@@ -1951,6 +2050,7 @@
 		},
 	"\/startup\/flat-ui\/js\/jquery.placeholder.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/jquery.placeholder-min.js",
@@ -1960,6 +2060,7 @@
 		},
 	"\/startup\/flat-ui\/js\/jquery.tagsinput.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/jquery.tagsinput-min.js",
@@ -1969,6 +2070,7 @@
 		},
 	"\/startup\/flat-ui\/js\/jquery.ui.touch-punch.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/jquery.ui.touch-punch.min-min.js",
@@ -1978,6 +2080,7 @@
 		},
 	"\/startup\/flat-ui\/js\/respond.min.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/respond.min-min.js",
@@ -1987,6 +2090,7 @@
 		},
 	"\/startup\/flat-ui\/js\/typeahead.js": {
 		"ft": 64,
+		"ma": 0,
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/js\/typeahead-min.js",
@@ -3414,6 +3518,10 @@
 			"active": 0,
 			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
 			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
 		"array-bracket-spacing": {
 			"active": 0,
 			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
@@ -3421,6 +3529,10 @@
 		"array-callback-return": {
 			"active": 0,
 			"optionString": ""
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
 			},
 		"arrow-body-style": {
 			"active": 0,
@@ -3518,6 +3630,10 @@
 			"active": 0,
 			"optionString": "'always', {'null': 'always'}"
 			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
 		"func-call-spacing": {
 			"active": 0,
 			"optionString": "'never'"
@@ -3537,6 +3653,10 @@
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
 			"active": 0,
@@ -3665,6 +3785,10 @@
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-caller": {
 			"active": 0,
@@ -4210,6 +4334,10 @@
 			"active": 0,
 			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
 			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
 		"prefer-arrow-callback": {
 			"active": 0,
 			"optionString": ""
@@ -4278,6 +4406,10 @@
 			"active": 0,
 			"optionString": "{'before': false, 'after': true}"
 			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
 		"sort-imports": {
 			"active": 0,
 			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
@@ -4317,6 +4449,10 @@
 		"strict": {
 			"active": 0,
 			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
 			"active": 0,
@@ -4946,9 +5082,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
+	"susyVersion": 3,
 	"uglifyDefinesString": "",
 	"uglifyFlags2": {
 		"ascii-only": {
