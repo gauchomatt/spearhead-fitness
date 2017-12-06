@@ -26,7 +26,7 @@ function fadedEls(el, shift) {
             }
         }
     });
-};
+}
 
 (function($) {
     $(function() {
@@ -50,13 +50,28 @@ function fadedEls(el, shift) {
                 return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
             }
         };
-        
+
+        // Simple Scroll To
+        $('a[href*="#"]:not([href="#"])').click(function() {
+          if (location.pathname.replace(/^\//,'') === this.pathname.replace(/^\//,'') || location.hostname === this.hostname) {
+
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+            return false;
+            }
+          }
+        });
+
         // Sections height & scrolling
         $(window).resize(function() {
             var sH = $(window).height();
             $('section.header-10-sub').css('height', (sH - $('header').outerHeight()) + 'px');
            // $('section:not(.header-10-sub):not(.content-11)').css('height', sH + 'px');
-        });        
+        });
 
         $('.header-10-sub .scroll-btn a').on('click', function(e) {
             e.preventDefault();
@@ -76,6 +91,7 @@ function fadedEls(el, shift) {
         });
 
         $('.nav, .nav-scroll').find('a').on('click', function(e) {
+            e.preventDefault();
             $.scrollTo($('#' + $(this).data('section')), {
                 axis : 'y',
                 duration : 500,
@@ -85,10 +101,11 @@ function fadedEls(el, shift) {
 
         // Parallax
         $('.header-10-sub, .content-23.custom-bg').each(function() {
-            if(! isMobile.any())
-            $(this).parallax('50%', 0.3, true);
-            else
-            $(this).css('background-attachment', 'initial');
+            if(! isMobile.any()) {
+              $(this).parallax('50%', 0.3, true);
+            } else {
+              $(this).css('background-attachment', 'initial');
+            }
         });
 
         /* For the section content-8 */
@@ -124,7 +141,7 @@ function fadedEls(el, shift) {
             })($('.screen'));
         }
 
-       
+
         (function(el) {
             el.css('left', '-100%');
 
@@ -154,4 +171,3 @@ function fadedEls(el, shift) {
     });
 
 })(jQuery);
-

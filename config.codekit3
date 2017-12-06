@@ -7,9 +7,10 @@
 		"uuidString": "29BD6380-D60E-4F91-8406-41F19B321CE0"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26148",
 "files": {
 	"\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/favicon.ico",
@@ -250,6 +251,7 @@
 		"q": 100
 		},
 	"\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
@@ -271,6 +273,16 @@
 		"mi": 1,
 		"oA": 1,
 		"oAP": "\/js\/min\/script-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/script-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/script-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -335,6 +347,7 @@
 		"oS": 0
 		},
 	"\/startup\/common-files\/fonts\/Startup-Icons.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/common-files\/fonts\/Startup-Icons.eot",
@@ -351,12 +364,14 @@
 		"prP": 0
 		},
 	"\/startup\/common-files\/fonts\/Startup-Icons.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/common-files\/fonts\/Startup-Icons.ttf",
 		"oF": 0
 		},
 	"\/startup\/common-files\/fonts\/Startup-Icons.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/common-files\/fonts\/Startup-Icons.woff",
@@ -877,12 +892,14 @@
 		"sU": 0
 		},
 	"\/startup\/flat-ui\/.editorconfig": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/.editorconfig",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/.gitignore",
@@ -919,6 +936,7 @@
 		"oS": 0
 		},
 	"\/startup\/flat-ui\/bootstrap\/fonts\/glyphicons-halflings-regular.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/bootstrap\/fonts\/glyphicons-halflings-regular.eot",
@@ -935,12 +953,14 @@
 		"prP": 0
 		},
 	"\/startup\/flat-ui\/bootstrap\/fonts\/glyphicons-halflings-regular.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/bootstrap\/fonts\/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/bootstrap\/fonts\/glyphicons-halflings-regular.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/bootstrap\/fonts\/glyphicons-halflings-regular.woff",
@@ -977,6 +997,7 @@
 		"tS": 0
 		},
 	"\/startup\/flat-ui\/components.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/components.html",
@@ -1013,6 +1034,7 @@
 		"oS": 0
 		},
 	"\/startup\/flat-ui\/fonts\/flat-ui-icons-regular.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/flat-ui-icons-regular.eot",
@@ -1029,18 +1051,21 @@
 		"prP": 0
 		},
 	"\/startup\/flat-ui\/fonts\/flat-ui-icons-regular.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/flat-ui-icons-regular.ttf",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/flat-ui-icons-regular.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/flat-ui-icons-regular.woff",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-black.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-black.eot",
@@ -1057,18 +1082,21 @@
 		"prP": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-black.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-black.ttf",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-black.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-black.woff",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-bold.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-bold.eot",
@@ -1085,18 +1113,21 @@
 		"prP": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-bold.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-bold.ttf",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-bold.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-bold.woff",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-bolditalic.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-bolditalic.eot",
@@ -1113,18 +1144,21 @@
 		"prP": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-bolditalic.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-bolditalic.ttf",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-bolditalic.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-bolditalic.woff",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-italic.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-italic.eot",
@@ -1141,18 +1175,21 @@
 		"prP": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-italic.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-italic.ttf",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-italic.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-italic.woff",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-light.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-light.eot",
@@ -1169,18 +1206,21 @@
 		"prP": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-light.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-light.ttf",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-light.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-light.woff",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-regular.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-regular.eot",
@@ -1197,18 +1237,21 @@
 		"prP": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-regular.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-regular.ttf",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/fonts\/lato\/lato-regular.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/fonts\/lato\/lato-regular.woff",
 		"oF": 0
 		},
 	"\/startup\/flat-ui\/getting-started.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/getting-started.html",
@@ -1360,6 +1403,7 @@
 		"q": 100
 		},
 	"\/startup\/flat-ui\/images\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/startup\/flat-ui\/images\/favicon.ico",
@@ -1934,6 +1978,7 @@
 		"q": 100
 		},
 	"\/startup\/flat-ui\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/index.html",
@@ -2747,10 +2792,10 @@
 		"oS": 1
 		},
 	"\/startup\/flat-ui\/README.md": {
+		"cB": 0,
 		"cS": 0,
 		"eF": 0,
 		"eL": 1,
-		"eLB": 0,
 		"ema": 1,
 		"eSQ": 1,
 		"ft": 4096,
@@ -2765,6 +2810,7 @@
 		"uCM": 0
 		},
 	"\/startup\/flat-ui\/template.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/template.html",
@@ -3070,6 +3116,7 @@
 		"oS": 0
 		},
 	"\/static\/css\/style.css.map": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
 		"oAP": "\/static\/css\/style.css.map",
@@ -3093,24 +3140,28 @@
 		"sU": 0
 		},
 	"\/thankyou.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/thankyou.html",
 		"oF": 0
 		},
 	"\/video\/preview.mp4": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/video\/preview.mp4",
 		"oF": 0
 		},
 	"\/video\/preview.ogg": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/video\/preview.ogg",
 		"oF": 0
 		},
 	"\/video\/preview.webm": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/video\/preview.webm",
@@ -3661,6 +3712,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -3725,9 +3780,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -3757,6 +3812,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -3766,14 +3825,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -4877,7 +4928,8 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
 		"autoOutputAction": 0,
@@ -4910,6 +4962,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -4951,7 +5004,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -4983,13 +5037,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -4998,7 +5052,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -5018,7 +5073,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -5046,7 +5102,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
