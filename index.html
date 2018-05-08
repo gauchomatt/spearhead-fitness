@@ -605,22 +605,7 @@
 				<div class="row">
 					<h3 class="col-sm-10 col-sm-offset-1">It's time to stop talking and time to change your life. Join today and experience the Spearhead difference!</h3>
 				</div>
-				<script type='text/javascript'>
-					if(!document.getElementById('recaptcha')){var script=document.createElement('script');script.id='recaptcha';script.src='https://www.google.com/recaptcha/api.js';document.head.appendChild(script);}
-					var validationUrl='//app.wodify.com/API/WebToLeadFormPostEntry_v1.aspx?ResponseField=';var reCaptchaValidated=false;function callbackFunc(data){document.getElementById('recaptcha_response_field').value=data;validationUrl+=data;if(data){reCaptchaValidated=true;}}
-					function validateWodifyLeadForm()
-					{
-						var reEmail = /^[_a-zA-Z0-9-]+(\.[_a-zA-Z0-9-]+)*@[a-zA-Z0-9-]+(\.[a-zA-Z0-9-]+)*(\.[a-zA-Z]{2,3})$/;
-						var returnValue = true;var fieldname=document.forms['wodifyLeadForm']['name'].value;if(fieldname==null||fieldname=='')
-						{document.getElementById('errorname').style.display='inline';returnValue=false;}
-						else
-							{document.getElementById('errorname').style.display='none';}
-						var fieldemail=document.forms['wodifyLeadForm']['email'].value;if(fieldemail==null||fieldemail==''||!reEmail.test(fieldemail))
-						{document.getElementById('erroremail').style.display='inline';returnValue=false;}
-						else
-							{document.getElementById('erroremail').style.display='none';}if(!reCaptchaValidated){document.getElementById('errorCAPTCHA').style.display='inline';return false;}return returnValue;
-					};
-				</script>
+
 				<form action="https://app.wodify.com/API/WebToLeadFormPostEntry_v1.aspx?" accept-charset="UTF-8" method="POST" id="wodifyLeadForm" name="wodifyLeadForm" onsubmit="return validateWodifyLeadForm();">
 				<div class="row">
 					<div class="col-sm-6">
@@ -634,7 +619,7 @@
 						<input class="form-control" type="email" name="email" maxlength="250" required data-required></input>
 
 						<label class="h6" for="phone">Phone</label>
-						<input class="form-control" type="tel" name="phone" maxlength="20">
+						<input class="form-control" type="tel" type="number" name="phone" maxlength="20" onchange="onChangePhoneValidation(this)" onkeypress='return event.charCode >= 48 && event.charCode <= 57' placeholder="E.g.:1234567890" ></input>
 
 						<label class="h6" for="city">City</label>
 						<input class="form-control" type="text" name="city" maxlength="50">
@@ -811,6 +796,37 @@
 
 	<!-- JS -->
 	<script src="js/script.js"></script>
+
+	<!-- Form -->
+	<script type='text/javascript'>
+		if(!document.getElementById('recaptcha')){var script=document.createElement('script');script.id='recaptcha';script.src='https://www.google.com/recaptcha/api.js';document.head.appendChild(script);}
+		var validationUrl='//app.wodify.com/API/WebToLeadFormPostEntry_v1.aspx?ResponseField=';var reCaptchaValidated=false;function callbackFunc(data){document.getElementById('recaptcha_response_field').value=data;validationUrl+=data;if(data){reCaptchaValidated=true;}}
+		function validateWodifyLeadForm()
+		{
+			var reEmail = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+			var returnValue = true;var fieldname=document.forms['wodifyLeadForm']['name'].value;
+			if(fieldname==null||fieldname=='')
+				{document.getElementById('errorname').style.display='inline';returnValue=false;}
+			else
+				{document.getElementById('errorname').style.display='none';}var fieldemail=document.forms['wodifyLeadForm']['email'].value;
+			if(fieldemail==null||fieldemail==''||!reEmail.test(fieldemail))
+				{document.getElementById('erroremail').style.display='inline';returnValue=false;}
+			else
+				{document.getElementById('erroremail').style.display='none';}var fieldlocation=document.forms['wodifyLeadForm']['location'].options[document.forms['wodifyLeadForm']['location'].selectedIndex].value;if(fieldlocation==null||fieldlocation=='')
+			{document.getElementById('errorlocation').style.display='inline';returnValue=false;}
+			else
+				{document.getElementById('errorlocation').style.display='none';}if(!reCaptchaValidated){document.getElementById('errorCAPTCHA').style.display='inline';return false;}
+			return returnValue;
+		};
+		function onChangePhoneValidation(phoneId){
+			var fieldphone=phoneId.value.replace(/[^0-9]/g, "");
+			var fieldPhoneLenght=fieldphone.length;
+			if(fieldPhoneLenght==10||(0==0&&fieldPhoneLenght==0))
+				{document.getElementById('warningphone').style.display='none';}
+			else
+				{document.getElementById('warningphone').style.display='inline';}
+		}
+	</script>
 
 	<!-- Google Tag Manager -->
 	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-567TGR"

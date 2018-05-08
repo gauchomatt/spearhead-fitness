@@ -7,7 +7,7 @@
 		"uuidString": "29BD6380-D60E-4F91-8406-41F19B321CE0"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26680",
 "files": {
 	"\/favicon.ico": {
 		"cB": 0,
@@ -151,6 +151,7 @@
 	"\/img\/crossfit-race@2x.jpg": {
 		"ft": 16384,
 		"iS": 233968,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/crossfit-race@2x.jpg",
 		"oF": 0,
@@ -161,6 +162,7 @@
 	"\/img\/crossfit-spearhead-gym-kids.jpg": {
 		"ft": 16384,
 		"iS": 552760,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/crossfit-spearhead-gym-kids.jpg",
 		"oF": 0,
@@ -171,6 +173,7 @@
 	"\/img\/crossfit-spearhead-gym-members.jpg": {
 		"ft": 16384,
 		"iS": 169522,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/crossfit-spearhead-gym-members.jpg",
 		"oF": 0,
@@ -181,6 +184,7 @@
 	"\/img\/crossfit-spearhead-gym.jpg": {
 		"ft": 16384,
 		"iS": 74868,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/crossfit-spearhead-gym.jpg",
 		"oF": 0,
@@ -233,6 +237,7 @@
 	"\/img\/primary-hero-crossfit.jpg": {
 		"ft": 16384,
 		"iS": 404462,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/primary-hero-crossfit.jpg",
 		"oF": 0,
@@ -243,6 +248,7 @@
 	"\/img\/secondary-hero-crossfit.jpg": {
 		"ft": 16384,
 		"iS": 397339,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/secondary-hero-crossfit.jpg",
 		"oF": 0,
@@ -605,6 +611,7 @@
 	"\/startup\/common-files\/img\/header\/img-3.jpg": {
 		"ft": 16384,
 		"iS": 294400,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/img\/header\/img-3.jpg",
 		"oF": 0,
@@ -615,6 +622,7 @@
 	"\/startup\/common-files\/img\/header\/img-video.jpg": {
 		"ft": 16384,
 		"iS": 268288,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/common-files\/img\/header\/img-video.jpg",
 		"oF": 0,
@@ -1271,6 +1279,7 @@
 	"\/startup\/flat-ui\/images\/demo\/browser-author.jpg": {
 		"ft": 16384,
 		"iS": 3583,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/demo\/browser-author.jpg",
 		"oF": 0,
@@ -1281,6 +1290,7 @@
 	"\/startup\/flat-ui\/images\/demo\/browser-pic-1.jpg": {
 		"ft": 16384,
 		"iS": 12289,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/demo\/browser-pic-1.jpg",
 		"oF": 0,
@@ -1291,6 +1301,7 @@
 	"\/startup\/flat-ui\/images\/demo\/browser-pic-2.jpg": {
 		"ft": 16384,
 		"iS": 6348,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/demo\/browser-pic-2.jpg",
 		"oF": 0,
@@ -1301,6 +1312,7 @@
 	"\/startup\/flat-ui\/images\/demo\/browser-pic-3.jpg": {
 		"ft": 16384,
 		"iS": 7091,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/demo\/browser-pic-3.jpg",
 		"oF": 0,
@@ -1311,6 +1323,7 @@
 	"\/startup\/flat-ui\/images\/demo\/browser-pic-4.jpg": {
 		"ft": 16384,
 		"iS": 7938,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/demo\/browser-pic-4.jpg",
 		"oF": 0,
@@ -1321,6 +1334,7 @@
 	"\/startup\/flat-ui\/images\/demo\/browser-pic-5.jpg": {
 		"ft": 16384,
 		"iS": 6526,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/demo\/browser-pic-5.jpg",
 		"oF": 0,
@@ -1331,6 +1345,7 @@
 	"\/startup\/flat-ui\/images\/demo\/browser-pic-6.jpg": {
 		"ft": 16384,
 		"iS": 8526,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/demo\/browser-pic-6.jpg",
 		"oF": 0,
@@ -1385,6 +1400,7 @@
 	"\/startup\/flat-ui\/images\/demo\/video.jpg": {
 		"ft": 16384,
 		"iS": 172944,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/demo\/video.jpg",
 		"oF": 0,
@@ -1395,6 +1411,7 @@
 	"\/startup\/flat-ui\/images\/exaple-image.jpg": {
 		"ft": 16384,
 		"iS": 194398,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/exaple-image.jpg",
 		"oF": 0,
@@ -1926,6 +1943,7 @@
 	"\/startup\/flat-ui\/images\/video\/poster.jpg": {
 		"ft": 16384,
 		"iS": 51689,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/startup\/flat-ui\/images\/video\/poster.jpg",
 		"oF": 0,
@@ -3176,7 +3194,8 @@
 	"creationDate": 517246885,
 	"displayValue": "crossfit-spearhead",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-ariel"
+	"iconImageName": "meme-ariel",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -3184,6 +3203,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -3747,6 +3767,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -4974,6 +4998,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
