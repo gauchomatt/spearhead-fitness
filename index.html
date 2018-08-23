@@ -606,111 +606,170 @@
 					<h3 class="col-sm-10 col-sm-offset-1">It's time to stop talking and time to change your life. Join today and experience the Spearhead difference!</h3>
 				</div>
 
+				<!-- INSERT THIS CODE INTO YOUR WEBSITE TO HAVE LEADS SUBMIT THEIR INFORMATION TO WODIFY REMOTELY -->
+				<script type='text/javascript'>
+
+				if(!document.getElementById('recaptcha')){var script=document.createElement('script');script.id='recaptcha';script.src='https://www.google.com/recaptcha/api.js';document.head.appendChild(script);}
+				var validationUrl='//app.wodify.com/API/WebToLeadFormPostEntry_v1.aspx?ResponseField=';var reCaptchaValidated=false;function callbackFunc(data){document.getElementById('recaptcha_response_field').value=data;validationUrl+=data;if(data){reCaptchaValidated=true;}}
+				function validateWodifyLeadForm()
+				{
+				var reEmail = /^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+				var returnValue = true;var fieldname=document.forms['wodifyLeadForm']['name'].value;
+				            if(fieldname==null||fieldname=='')
+				                {document.getElementById('errorname').style.display='inline';returnValue=false;}
+				            else
+				                {document.getElementById('errorname').style.display='none';}var fieldemail=document.forms['wodifyLeadForm']['email'].value;
+				    if(fieldemail==null||fieldemail==''||!reEmail.test(fieldemail))
+				        {document.getElementById('erroremail').style.display='inline';returnValue=false;}
+				    else
+				        {document.getElementById('erroremail').style.display='none';}var fieldlocation=document.forms['wodifyLeadForm']['location'].options[document.forms['wodifyLeadForm']['location'].selectedIndex].value;if(fieldlocation==null||fieldlocation=='')
+				{document.getElementById('errorlocation').style.display='inline';returnValue=false;}
+				else
+				{document.getElementById('errorlocation').style.display='none';}if(!reCaptchaValidated){document.getElementById('errorCAPTCHA').style.display='inline';return false;}
+				return returnValue;
+				};
+
+				function onChangePhoneValidation(phoneId){
+				    var fieldphone=phoneId.value.replace(/[^0-9]/g, "");
+				    var fieldPhoneLenght=fieldphone.length;
+				    if(fieldPhoneLenght==10||(0==0&&fieldPhoneLenght==0))
+				        {document.getElementById('warningphone').style.display='none';}
+				    else
+				        {document.getElementById('warningphone').style.display='inline';}
+				}</script>
+
 				<form action="https://app.wodify.com/API/WebToLeadFormPostEntry_v1.aspx?" accept-charset="UTF-8" method="POST" id="wodifyLeadForm" name="wodifyLeadForm" onsubmit="return validateWodifyLeadForm();">
-				<div class="row">
-					<div class="col-sm-6">
 
-						<label class="h6" for="name">*Name / Last Name</label>
-						<span id="errorname" name="errorname" style="display: none; color: #cc2626;"> Required field!</span>
-						<input class="form-control" type="text" name="name" maxlength="50" required data-required></input>
+					<input class="form-control" type="text" name="name" maxlength="50" required data-required></input>
+					<span id="errorname" name="errorname" style="display: none; color: #cc2626;"> Required field!</span>
 
-						<label class="h6" for="email">*Email</label>
-						<span id="erroremail" name="erroremail" style="display: none; color: #cc2626;"> Required field!</span>
-						<input class="form-control" type="email" name="email" maxlength="250" required data-required></input>
+					<input class="form-control" type="email" name="email" maxlength="250" required data-required></input>
+					<span id="erroremail" name="erroremail" style="display: none; color: #cc2626;"> Required field!</span>
 
-						<label class="h6" for="phone">Phone</label>
-						<input class="form-control" type="tel" type="number" name="phone" maxlength="20" onchange="onChangePhoneValidation(this)" onkeypress='return event.charCode >= 48 && event.charCode <= 57' placeholder="E.g.:1234567890" ></input>
+					<select name="location" required><option value="">-</option><option value="1642" selected="selected">CrossFit SpearHead</option></select>
+					<span id="errorlocation" name="errorlocation" style="display: none; color: #cc2626;"> Required field!</span>
 
-						<label class="h6" for="city">City</label>
-						<input class="form-control" type="text" name="city" maxlength="50">
+					<input class="form-control" type="number" name="phone" maxlength="20" onchange="onChangePhoneValidation(this)"
+					 onkeypress='return event.charCode >= 48 && event.charCode <= 57'
+					 placeholder="E.g.:1234567890" ></input><span id="warningphone" name="warningphone" style="display: none; color: #EED202;"> Enter a 10 digit number to ensure you receive SMSs.</span>
 
-						<label class="h6" for="state">State</label>
-						<select class="form-control" name="state">
-							<option value="">Select a state...</option>
-							<option value="24">Alaska</option>
-							<option value="22">Alabama</option>
-							<option value="20">Arkansas</option>
-							<option value="11">Arizona</option>
-							<option value="21">California</option>
-							<option value="32">Colorado</option>
-							<option value="12">Connecticut</option>
-							<option value="44">District of Columbia</option>
-							<option value="9">Delaware</option>
-							<option value="39">Florida</option>
-							<option value="34">Georgia</option>
-							<option value="19">Hawaii</option>
-							<option value="49">Iowa</option>
-							<option value="40">Idaho</option>
-							<option value="23">Illinois</option>
-							<option value="5">Indiana</option>
-							<option value="25">Kansas</option>
-							<option value="30">Kentucky</option>
-							<option value="48">Louisiana</option>
-							<option value="6">Massachusetts</option>
-							<option value="1">Maryland</option>
-							<option value="50">Maine</option>
-							<option value="33">Michigan</option>
-							<option value="27">Minnesota</option>
-							<option value="2">Missouri</option>
-							<option value="36">Mississippi</option>
-							<option value="18">Montana</option>
-							<option value="8">North Carolina</option>
-							<option value="29">North Dakota</option>
-							<option value="35">Nebraska</option>
-							<option value="31">New Hampshire</option>
-							<option value="38">New Jersey</option>
-							<option value="43">New Mexico</option>
-							<option value="10">Nevada</option>
-							<option value="3">New York</option>
-							<option value="47">Ohio</option>
-							<option value="42">Oklahoma</option>
-							<option value="28">Oregon</option>
-							<option value="51">Pennsylvania</option>
-							<option value="13">Rhode Island</option>
-							<option value="45">South Carolina</option>
-							<option value="17">South Dakota</option>
-							<option value="37">Tennessee</option>
-							<option value="15">Texas</option>
-							<option value="41">Utah</option>
-							<option value="16">Virginia</option>
-							<option value="4">Vermont</option>
-							<option value="7">Washington</option>
-							<option value="26">Wisconsin</option>
-							<option value="46">West Virginia</option>
-							<option value="14">Wyoming</option>
-						</select>
-					</div>
-					<div class="col-sm-6">
-						<label class="h6" for="leadsource">How Did You Hear About Us?</label>
-						<select class="form-control" name="leadsource">
-							<option value="">Select an option...</option>
-							<option value="55260">Friend/Family</option>
-							<option value="55261">Facebook</option>
-							<option value="55262">Google/Search Engine</option>
-							<option value="55263">SMS</option>
-							<option value="55264">Online Sales</option>
-							<option value="55265">Other</option>
-						</select>
+					<input class="form-control" type="text" name="city" maxlength="50"></input>
 
-						<label class="h6" for="referredby">Referred By</label>
-						<input class="form-control" type="text" name="referredby" maxlength="1000">
+					<select name="state"><option value="">-</option><option value="24">Alaska</option><option value="22">Alabama</option><option value="20">Arkansas</option><option value="11">Arizona</option><option value="21">California</option><option value="32">Colorado</option><option value="12">Connecticut</option><option value="44">District of Columbia</option><option value="9">Delaware</option><option value="39">Florida</option><option value="34">Georgia</option><option value="19">Hawaii</option><option value="49">Iowa</option><option value="40">Idaho</option><option value="23">Illinois</option><option value="5">Indiana</option><option value="25">Kansas</option><option value="30">Kentucky</option><option value="48">Louisiana</option><option value="6">Massachusetts</option><option value="1">Maryland</option><option value="50">Maine</option><option value="33">Michigan</option><option value="27">Minnesota</option><option value="2">Missouri</option><option value="36">Mississippi</option><option value="18">Montana</option><option value="8">North Carolina</option><option value="29">North Dakota</option><option value="35">Nebraska</option><option value="31">New Hampshire</option><option value="38">New Jersey</option><option value="43">New Mexico</option><option value="10">Nevada</option><option value="3">New York</option><option value="47">Ohio</option><option value="42">Oklahoma</option><option value="28">Oregon</option><option value="51">Pennsylvania</option><option value="13">Rhode Island</option><option value="45">South Carolina</option><option value="17">South Dakota</option><option value="37">Tennessee</option><option value="15">Texas</option><option value="41">Utah</option><option value="16">Virginia</option><option value="4">Vermont</option><option value="7">Washington</option><option value="26">Wisconsin</option><option value="46">West Virginia</option><option value="14">Wyoming</option></select>
 
-						<label class="h6" for="comments">Comments</label>
-						<textarea class="form-control" name="comments" maxlength="2000" rows="4"></textarea>
+					<div class='g-recaptcha' data-sitekey='6LfhHwwTAAAAAClq6ftb542cs20aieu0kJIuojTt' data-callback='callbackFunc'></div>
+					<input type='hidden' id='recaptcha_response_field' name='recaptcha_response_field' value='manual_challenge' style='margin-top:20px;'><span id="errorCAPTCHA" name="errorCAPTCHA" style="display: none; color: #cc2626;"> Invalid reCAPTCHA!</span><input type="hidden" id="usecaptcha" name="usecaptcha" value="true"></input>
 
-						<div class='g-recaptcha' data-sitekey='6LfhHwwTAAAAAClq6ftb542cs20aieu0kJIuojTt' data-callback='callbackFunc'></div>
-						<input type='hidden' id='recaptcha_response_field' name='recaptcha_response_field' value='manual_challenge' style='margin-top:20px;'>
-						<span id="errorCAPTCHA" name="errorCAPTCHA" style="display: none; color: #cc2626;"> Invalid reCAPTCHA!</span>
-						<input type="hidden" id="usecaptcha" name="usecaptcha" value="true">
-						<input type="hidden" name="apikey" value="g0c27d7ioy">
-						<input type="hidden" name="redirecturl" value="http://www.crossfitspearhead.com/thankyou.html">
-					</div>
-				</div>
-				<div class="row">
-					<hr>
-					<button type="submit" class="btn btn-danger col-sm-12"><span class="fui-mail"></span></button>
-				</div>
+					<input type="hidden" name="redirecturl" value="http://www.crossfitspearhead.com/thankyou.html">
+					<input type="hidden" name="apikey" value="g0c27d7ioy">
+					<button class="btn btn-danger col-sm-12" type="submit" value="Submit"><span class="fui-mail"></span></button>
 				</form>
+
+				<!-- <form action="https://app.wodify.com/API/WebToLeadFormPostEntry_v1.aspx?" accept-charset="UTF-8" method="POST" id="wodifyLeadForm" name="wodifyLeadForm" onsubmit="return validateWodifyLeadForm();">
+					<div class="row">
+						<div class="col-sm-6">
+
+							<label class="h6" for="name">*Name / Last Name</label>
+							<span id="errorname" name="errorname" style="display: none; color: #cc2626;"> Required field!</span>
+							<input class="form-control" type="text" name="name" maxlength="50" required data-required></input>
+
+							<label class="h6" for="email">*Email</label>
+							<span id="erroremail" name="erroremail" style="display: none; color: #cc2626;"> Required field!</span>
+							<input class="form-control" type="email" name="email" maxlength="250" required data-required></input>
+
+							<label class="h6" for="phone">Phone</label>
+							<input class="form-control" type="tel" type="number" name="phone" maxlength="20" onchange="onChangePhoneValidation(this)" onkeypress='return event.charCode >= 48 && event.charCode <= 57' placeholder="E.g.:1234567890" ></input>
+
+							<label class="h6" for="city">City</label>
+							<input class="form-control" type="text" name="city" maxlength="50">
+
+							<label class="h6" for="state">State</label>
+							<select class="form-control" name="state">
+								<option value="">Select a state...</option>
+								<option value="24">Alaska</option>
+								<option value="22">Alabama</option>
+								<option value="20">Arkansas</option>
+								<option value="11">Arizona</option>
+								<option value="21">California</option>
+								<option value="32">Colorado</option>
+								<option value="12">Connecticut</option>
+								<option value="44">District of Columbia</option>
+								<option value="9">Delaware</option>
+								<option value="39">Florida</option>
+								<option value="34">Georgia</option>
+								<option value="19">Hawaii</option>
+								<option value="49">Iowa</option>
+								<option value="40">Idaho</option>
+								<option value="23">Illinois</option>
+								<option value="5">Indiana</option>
+								<option value="25">Kansas</option>
+								<option value="30">Kentucky</option>
+								<option value="48">Louisiana</option>
+								<option value="6">Massachusetts</option>
+								<option value="1">Maryland</option>
+								<option value="50">Maine</option>
+								<option value="33">Michigan</option>
+								<option value="27">Minnesota</option>
+								<option value="2">Missouri</option>
+								<option value="36">Mississippi</option>
+								<option value="18">Montana</option>
+								<option value="8">North Carolina</option>
+								<option value="29">North Dakota</option>
+								<option value="35">Nebraska</option>
+								<option value="31">New Hampshire</option>
+								<option value="38">New Jersey</option>
+								<option value="43">New Mexico</option>
+								<option value="10">Nevada</option>
+								<option value="3">New York</option>
+								<option value="47">Ohio</option>
+								<option value="42">Oklahoma</option>
+								<option value="28">Oregon</option>
+								<option value="51">Pennsylvania</option>
+								<option value="13">Rhode Island</option>
+								<option value="45">South Carolina</option>
+								<option value="17">South Dakota</option>
+								<option value="37">Tennessee</option>
+								<option value="15">Texas</option>
+								<option value="41">Utah</option>
+								<option value="16">Virginia</option>
+								<option value="4">Vermont</option>
+								<option value="7">Washington</option>
+								<option value="26">Wisconsin</option>
+								<option value="46">West Virginia</option>
+								<option value="14">Wyoming</option>
+							</select>
+						</div>
+						<div class="col-sm-6">
+							<label class="h6" for="leadsource">How Did You Hear About Us?</label>
+							<select class="form-control" name="leadsource">
+								<option value="">Select an option...</option>
+								<option value="55260">Friend/Family</option>
+								<option value="55261">Facebook</option>
+								<option value="55262">Google/Search Engine</option>
+								<option value="55263">SMS</option>
+								<option value="55264">Online Sales</option>
+								<option value="55265">Other</option>
+							</select>
+
+							<label class="h6" for="referredby">Referred By</label>
+							<input class="form-control" type="text" name="referredby" maxlength="1000">
+
+							<label class="h6" for="comments">Comments</label>
+							<textarea class="form-control" name="comments" maxlength="2000" rows="4"></textarea>
+
+							<div class='g-recaptcha' data-sitekey='6LfhHwwTAAAAAClq6ftb542cs20aieu0kJIuojTt' data-callback='callbackFunc'></div>
+							<input type='hidden' id='recaptcha_response_field' name='recaptcha_response_field' value='manual_challenge' style='margin-top:20px;'>
+							<span id="errorCAPTCHA" name="errorCAPTCHA" style="display: none; color: #cc2626;"> Invalid reCAPTCHA!</span>
+							<input type="hidden" id="usecaptcha" name="usecaptcha" value="true">
+							<input type="hidden" name="apikey" value="g0c27d7ioy">
+							<input type="hidden" name="redirecturl" value="http://www.crossfitspearhead.com/thankyou.html">
+						</div>
+					</div>
+					<div class="row">
+						<hr>
+						<button type="submit" class="btn btn-danger col-sm-12"><span class="fui-mail"></span></button>
+					</div>
+				</form> -->
 			</div>
 		</section>
 		<!-- Contact -->
