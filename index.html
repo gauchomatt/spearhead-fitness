@@ -1,685 +1,934 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 
-<head>
-	<meta charset="utf-8">
-	<meta name="apple-mobile-web-app-capable" content="yes" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <link rel="shortcut icon" href="startup/flat-ui/images/favicon.ico" />
+    <link rel="stylesheet" href="startup/flat-ui/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="startup/flat-ui/css/flat-ui.css" />
+    <link rel="stylesheet" href="startup/common-files/css/icon-font.css" />
+    <link rel="stylesheet" href="startup/common-files/css/animations.css" />
+    <link rel="stylesheet" href="static/css/style.css" />
 
-	<link rel="shortcut icon" href="startup/flat-ui/images/favicon.ico">
-	<link rel="stylesheet" href="startup/flat-ui/bootstrap/css/bootstrap.css">
-	<link rel="stylesheet" href="startup/flat-ui/css/flat-ui.css">
-	<link rel="stylesheet" href="startup/common-files/css/icon-font.css">
-	<link rel="stylesheet" href="startup/common-files/css/animations.css">
-	<link rel="stylesheet" href="static/css/style.css">
+    <!-- jQuery -->
+    <script src="startup/common-files/js/jquery-1.10.2.min.js"></script>
 
-	<!-- jQuery -->
-	<script src="startup/common-files/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="//use.typekit.net/bha1xoy.js"></script>
+    <script type="text/javascript">
+      try {
+        Typekit.load();
+      } catch (e) {}
+    </script>
 
-	<script type="text/javascript" src="//use.typekit.net/bha1xoy.js"></script>
-	<script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
+    <title>Spearhead Fitness // A Gym in Holladay, Utah</title>
 
-	<title>Spearhead Fitness // A Gym in Holladay, Utah</title>
+    <!-- Facebook Conversion Code for SpearHead homepage -->
+    <script>
+      (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+          var fbds = document.createElement("script");
+          fbds.async = true;
+          fbds.src = "//connect.facebook.net/en_US/fbds.js";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(fbds, s);
+          _fbq.loaded = true;
+        }
+      })();
+      window._fbq = window._fbq || [];
+      window._fbq.push([
+        "track",
+        "6032584192655",
+        { value: "0.00", currency: "USD" },
+      ]);
+    </script>
+    <noscript
+      ><img
+        height="1"
+        width="1"
+        alt=""
+        style="display: none"
+        src="https://www.facebook.com/tr?ev=6032584192655&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1"
+    /></noscript>
 
-	<!-- Facebook Conversion Code for SpearHead homepage -->
-	<script>(function () {
-			var _fbq = window._fbq || (window._fbq = []);
-			if (!_fbq.loaded) {
-				var fbds = document.createElement('script');
-				fbds.async = true;
-				fbds.src = '//connect.facebook.net/en_US/fbds.js';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(fbds, s);
-				_fbq.loaded = true;
-			}
-		})();
-		window._fbq = window._fbq || [];
-		window._fbq.push(['track', '6032584192655', { 'value': '0.00', 'currency': 'USD' }]);
-	</script>
-	<noscript><img height="1" width="1" alt="" style="display:none"
-			src="https://www.facebook.com/tr?ev=6032584192655&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
-	
-			<style>/* reset */
-				#fs-frm input,
-				#fs-frm select,
-				#fs-frm textarea,
-				#fs-frm fieldset,
-				#fs-frm optgroup,
-				#fs-frm label,
-				#fs-frm #card-element:disabled {
-					font-family: inherit;
-					font-size: 100%;
-					color: inherit;
-					border: none;
-					border-radius: 0;
-					display: block;
-					width: 100%;
-					padding: 0;
-					margin: 0;
-					-webkit-appearance: none;
-					-moz-appearance: none;
-				}
-				#fs-frm label,
-				#fs-frm legend,
-				#fs-frm ::placeholder {
-					font-size: .825rem;
-					margin-bottom: .5rem;
-					padding-top: .2rem;
-					display: flex;
-					align-items: baseline;
-				}
-				
-				/* border, padding, margin, width */
-				#fs-frm input,
-				#fs-frm select,
-				#fs-frm textarea,
-				#fs-frm #card-element {
-					border: 1px solid rgba(0,0,0,0.2);
-					background-color: rgba(255,255,255,0.9);
-					padding: .75em 1rem;
-					margin-bottom: 1.5rem;
-				}
-				#fs-frm input:focus,
-				#fs-frm select:focus,
-				#fs-frm textarea:focus {
-					background-color: white;
-					outline-style: solid;
-					outline-width: thin;
-					outline-color: gray;
-					outline-offset: -1px;
-				}
-				#fs-frm [type="text"],
-				#fs-frm [type="email"] {
-					width: 100%;
-				}
-				#fs-frm [type="button"],
-				#fs-frm [type="submit"],
-				#fs-frm [type="reset"] {
-					width: auto;
-					cursor: pointer;
-					-webkit-appearance: button;
-					-moz-appearance: button;
-					appearance: button;
-				}
-				#fs-frm [type="button"]:focus,
-				#fs-frm [type="submit"]:focus,
-				#fs-frm [type="reset"]:focus {
-					outline: none;
-				}
-				#fs-frm [type="submit"],
-				#fs-frm [type="reset"] {
-					margin-bottom: 0;
-				}
-				#fs-frm select {
-					text-transform: none;
-				}
-				
-				#fs-frm [type="checkbox"] {
-					-webkit-appearance: checkbox;
-					-moz-appearance: checkbox;
-					appearance: checkbox;
-					display: inline-block;
-					width: auto;
-					margin: 0 .5em 0 0 !important;
-				}
-				
-				#fs-frm [type="radio"] {
-					-webkit-appearance: radio;
-					-moz-appearance: radio;
-					appearance: radio;
-				}
-				
-				/* address, locale */
-				#fs-frm fieldset.locale input[name="city"],
-				#fs-frm fieldset.locale select[name="state"],
-				#fs-frm fieldset.locale input[name="postal-code"] {
-					display: inline;
-				}
-				#fs-frm fieldset.locale input[name="city"] {
-					width: 52%;
-				}
-				#fs-frm fieldset.locale select[name="state"],
-				#fs-frm fieldset.locale input[name="postal-code"] {
-					width: 20%;
-				}
-				#fs-frm fieldset.locale input[name="city"],
-				#fs-frm fieldset.locale select[name="state"] {
-					margin-right: 3%;
-				}
-				</style>
+    <style>
+      /* reset */
+      #fs-frm input,
+      #fs-frm select,
+      #fs-frm textarea,
+      #fs-frm fieldset,
+      #fs-frm optgroup,
+      #fs-frm label,
+      #fs-frm #card-element:disabled {
+        font-family: inherit;
+        font-size: 100%;
+        color: inherit;
+        border: none;
+        border-radius: 0;
+        display: block;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+      }
+      #fs-frm label,
+      #fs-frm legend,
+      #fs-frm ::placeholder {
+        /* font-size: 0.825rem; */
+        margin-bottom: 0.5rem;
+        padding-top: 0.2rem;
+        display: flex;
+        align-items: baseline;
+      }
 
-</head>
+      /* border, padding, margin, width */
+      #fs-frm input,
+      #fs-frm select,
+      #fs-frm textarea,
+      #fs-frm #card-element {
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        background-color: rgba(255, 255, 255, 0.9);
+        padding: 0.75em 1rem;
+        margin-bottom: 1.5rem;
+      }
+      #fs-frm input:focus,
+      #fs-frm select:focus,
+      #fs-frm textarea:focus {
+        background-color: white;
+        outline-style: solid;
+        outline-width: thin;
+        outline-color: gray;
+        outline-offset: -1px;
+      }
+      #fs-frm [type="text"],
+      #fs-frm [type="email"] {
+        width: 100%;
+      }
+      #fs-frm [type="button"],
+      #fs-frm [type="submit"],
+      #fs-frm [type="reset"] {
+        width: auto;
+        cursor: pointer;
+        -webkit-appearance: button;
+        -moz-appearance: button;
+        appearance: button;
+      }
+      #fs-frm [type="button"]:focus,
+      #fs-frm [type="submit"]:focus,
+      #fs-frm [type="reset"]:focus {
+        outline: none;
+      }
+      #fs-frm [type="submit"],
+      #fs-frm [type="reset"] {
+        margin-bottom: 0;
+      }
+      #fs-frm select {
+        text-transform: none;
+      }
 
-<body>
-	<div class="page-wrapper">
-		<header class="header-10 header-23">
-			<div class="mask">&nbsp;</div>
-			<div class="popup-video">
-				<iframe id="pPlayer" src="https://player.vimeo.com/video/328729396" frameborder="0" webkitallowfullscreen
-					mozallowfullscreen allow="autoplay; fullscreen" allowfullscreen></iframe>
-			</div>
-			<div class="container">
-				<div class="row">
-					<div class="navbar col-sm-12" role="navigation">
-						<div class="navbar-header">
-							<button type="button" class="navbar-toggle"></button>
-							<figure class="brand"><img src="img/spearhead-fitness-logo-white.svg" title="Spearhead Fitness">
-							</figure>
-						</div>
-						<div class="collapse navbar-collapse pull-right">
-							<ul class="nav pull-left">
-								<li><a data-section="about-section" href="#about-section">About</a></li>
-								<li><a data-section="crew-section" href="#crew-section">Crew</a></li>
-								<!-- <li><a data-section="pricing-section" href="#pricing-section">Pricing</a></li> -->
-								<li><a data-section="contact-form" href="#contact-form">Contact</a></li>
-							</ul>
-							<form class="nav-scroll navbar-form pull-left">
-								<a data-section="contact-form" href="#contact-form" class="btn btn-danger">Sign Up</a>
-							</form>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="header-background"></div>
-		</header>
-		<!-- Primary Hero -->
-		<section class="header-10-sub header-23-sub v-center">
-			<div id="bgVideo" class="background">&nbsp;</div>
-			<div>
-				<div class="container">
-					<div class="hero-unit">
-						<a class="btn-play" id="play" href="#">Play</a>
-						<h1>Pushing Past Your Limit</h1>
-						<p>We have put together a gym that will change your life.<br /> Explore the Spearhead difference.</p>
-						<span>Adult Class Times:</span>
-						<a data-section="contact-form" href="#contact-form" class="btn btn-danger btn-sm">5:00am</a>
-						<a data-section="contact-form" href="#contact-form" class="btn btn-danger btn-sm">6:00am</a>
-						<a data-section="contact-form" href="#contact-form" class="btn btn-danger btn-sm">7:00am</a>
-						<a data-section="contact-form" href="#contact-form" class="btn btn-danger btn-sm">9:00am</a>
-						<a data-section="contact-form" href="#contact-form" class="btn btn-danger btn-sm">4:30pm</a>
-						<a data-section="contact-form" href="#contact-form" class="btn btn-danger btn-sm">5:30pm</a>
-						<span>Teen Class Times:</span>
-						<a data-section="contact-form" href="#contact-form" class="btn btn-danger btn-sm">3:30pm / Tues, Wed, Thurs
-							(12-17)</a>
-					</div>
-				</div>
-			</div>
-			<a class="control-btn fui-arrow-down" href="#"> </a>
-		</section>
-		<!-- What is CrossFit -->
-		<section class="content-15 v-center" id="about-section">
-			<div>
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-10 col-sm-offset-1">
-							<img class="promo" src="img/ksl-promo-2018.png" alt="KSL Best Gym Award 2018">
-						</div>
-					</div>
-					<div class="row">
-						<h1 class="col-sm-10 col-sm-offset-1">So, What is SpearHead Fitness?</h1>
-					</div>
-					<div class="row">
-						<h3 class="col-sm-10 col-sm-offset-1">We believe specializing is the enemy, so we encompass all the areas of
-							fitness to prepare you for anything and everything that life throws at you.</h3>
-					</div>
-					<div class="row">
-						<div class="col-sm-6">
-							<p>Inside our gym, you are not going to find weight machines, treadmills or stairmasters. Instead, we work
-								with kettlebells, barbells, medicine balls, climbing ropes, jump ropes, rings, plyo boxes and sand bags
-								to hone in the ten different fitness domains- cardiovascular/respiratory endurance, stamina, strength,
-								flexibility, power, speed, agility, balance, coordination and accuracy.</p>
-						</div>
-						<div class="col-sm-6">
-							<p>All our workouts will focus on functional movement- movement found in nature and movement that our body
-								was built to do. These movements are performed in day-to-life and we do them without even knowing it,
-								whether we pick our keys up off the floor or squat on and off the toilet. These movements are necessary
-								and even required to continue enjoying a healthy and pain-free life.</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- CTA -->
-		<section class="content-11">
-			<div class="container nav-scroll">
-				<span>It's time to take over your body. Experience Spearhead!</span>
-				<a data-section="contact-form" class="btn btn-large btn-danger" href="#">Sign Up Today</a>
-			</div>
-		</section>
-		<!-- Third Hero -->
-		<section class="content-23 bg-midnight-blue custom-bg custom-bg-2">
-			<div class="holder v-center">
-				<div>
-					<div class="container">
-						<div class="hero-unit hero-unit-bordered">
-							<h1>Members = Family</h1>
-						</div>
-					</div>
-				</div>
-			</div>
-			<a class="control-btn fui-arrow-down" href="#"> </a>
-		</section>
-		<!-- What is CrossFit / Cont -->
-		<section class="content-15 v-center">
-			<div>
-				<div class="container">
-					<div class="row">
-						<h3 class="col-sm-10 col-sm-offset-1">At Spearhead Fitness, the workouts we do inside the gym are
-							individually programmed for each day, meaning we never do the same workout twice.</h3>
-					</div>
-					<div class="row">
-						<div class="col-sm-10 col-sm-offset-1">
-							<p>This is the "constantly varied" aspect of fitness. There is no set program of isolating different
-								muscle groups three times a week and we never get into a workout routine. Specializing is the enemy,
-								ensuring that you never get bored and you are continually progressing in fitness. Our workouts are
-								rarely over 35 minutes, allowing them to fit into even the busiest of schedules. The days of hours of
-								working on bicep curls and leg press in the gym are over. Our program is completely scalable to any
-								fitness level and the result is a complete comprehensive understanding of physical fitness and an
-								overall healthy lifestyle.</p>
-						</div>
-					</div>
-					<div class="row features">
-						<div class="col-sm-5 col-sm-offset-1">
-							<h6>Build Fitness</h6>
-							<p>Within the walls of SpearHead Fitness, you will experience intense workouts that will get you in the
-								best shape of your life; We never specialize and always push each client to continue working on
-								strengths while knocking out individual weaknesses.</p>
-						</div>
-						<div class="col-sm-5 col-sm-offset-1">
-							<h6>Meet Friends</h6>
-							<p>Working out with friends and family is what brings such a great community aspect to SpearHead Fitness.
-								We encourage an atmosphere that is welcoming to all, whether you are an elite athlete or just coming off
-								the couch for the first time.</p>
-						</div>
-					</div>
-					<div class="row features">
-						<div class="col-sm-5 col-sm-offset-1">
-							<h6>Jump on Boxes</h6>
-							<p>Along with lifting barbells and doing pull-ups, we tap in to the inner-child in each of us and learn,
-								among many other skills and drills, how to run, row, lift, pull, push, swing and jump with all of the
-								different fun and exciting equipment we use inside the gym!</p>
-						</div>
-						<div class="col-sm-5 col-sm-offset-1">
-							<h6>Puke Your Guts Out</h6>
-							<p>Ok, not really... But be ready to work your hardest when joining us for your hour-long class each day!
-								Each workout should be intense and full of hard work, as it has been proven both in and out of our walls
-								that this is the only way results can be achieved!</p>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- Secondary Hero -->
-		<section class="content-23 bg-midnight-blue custom-bg">
-			<div class="holder v-center">
-				<div>
-					<div class="container">
-						<div class="hero-unit hero-unit-bordered">
-							<h1>Changing Lives Every Day</h1>
-						</div>
-					</div>
-				</div>
-			</div>
-			<a class="control-btn fui-arrow-down" href="#"> </a>
-		</section>
-		<!-- CTA -->
-		<section class="content-11">
-			<div class="container nav-scroll">
-				<span>It's time to take over your body. Experience Spearhead!</span>
-				<a data-section="contact-form" class="btn btn-large btn-danger" href="#">Sign Up Today</a>
-			</div>
-		</section>
-		<!-- The Crew -->
-		<section class="crew-4" id="crew-section">
-			<div class="container">
-				<div class="row">
-					<h1 class="col-sm-10 col-sm-offset-1">Spearhead Coaches</h1>
-				</div>
-				<div class="row">
-					<h3>We study long and hard to make sure your experience is exceptional. We aren't just your coaches, we are
-						your friends and mentors joining you in a persuit to achieve optimal fitness.</h3>
-				</div>
+      #fs-frm [type="checkbox"] {
+        -webkit-appearance: checkbox;
+        -moz-appearance: checkbox;
+        appearance: checkbox;
+        display: inline-block;
+        width: auto;
+        margin: 0 0.5em 0 0 !important;
+      }
 
-				<div class="members">
-					<div class="member-wrapper">
-						<div class="member">
-							<div class="photo-wrapper">
-								<div class="photo"><img src="img/coach-pics-dallin.png" alt="Dallin Frampton"></div>
-							</div>
-							<div class="info">
-								<div class="name">Coach Dallin Frampton</div>
-								As a resident of Holladay, Utah, Dallin, and his beautiful wife, Carlyn, are the Owners of SpearHead
-								Fitness. Dallin is an avid runner, mountain biker, rock climber, triathlete, mountaineer, skier,
-								surfer and adventurer. He has participated in 2 marathons and a handful of triathlons, 2 of which he got
-								1st and 2nd place in his age group. He has also run the Wasatch Back relay four different times,
-								competed in 12 half marathons and ridden the White rim trail 4 different times, 3 of the attempts were
-								under 16 hours. When he was training to tryout for the USA amateur triathlon team in 2009, Dallin was
-								introduced to CrossFit and began coaching athletes just 18 months later. Not only does he enjoy the
-								competent and measurable aspect of CrossFit, but Dallin also has an amazing passion for his athletes and
-								the completion of their goals through fitness, nutrition and life.<br><br>
+      #fs-frm [type="radio"] {
+        -webkit-appearance: radio;
+        -moz-appearance: radio;
+        appearance: radio;
+      }
 
-								After graduating in 2008, he raised over $10,000 to build a school in the village of Dzivani, just
-								outside of Mombasa, Kenya. After he received funding from CrossFit Headquarters to build another school,
-								Coach Greg Glassman brought him on board to work for CrossFit HQ staff and Dallin is now Project Lead on
-								this effort to build schools, water cisterns, desks and the like in rural Kenya, and also oversees all
-								of the philanthropic work CrossFit HQ takes part in. Besides letting his adrenaline lead him through
-								life, he also loves music and has been playing guitar for over 9 years.<br><br>
+      /* address, locale */
+      #fs-frm fieldset.locale input[name="city"],
+      #fs-frm fieldset.locale select[name="state"],
+      #fs-frm fieldset.locale input[name="postal-code"] {
+        display: inline;
+      }
+      #fs-frm fieldset.locale input[name="city"] {
+        width: 52%;
+      }
+      #fs-frm fieldset.locale select[name="state"],
+      #fs-frm fieldset.locale input[name="postal-code"] {
+        width: 20%;
+      }
+      #fs-frm fieldset.locale input[name="city"],
+      #fs-frm fieldset.locale select[name="state"] {
+        margin-right: 3%;
+      }
+    </style>
+  </head>
 
-								During the Fall months of 2011, Dallin was able to meet the woman of his dreams and in June 2013, he was
-								married to his beautiful and amazing bride, Carlyn Frampton, and they now are able to run a gym full of
-								passionate, spirited people that they love coaching every single day. Dallin is so grateful to have such
-								a hard-working and spirited elite-athlete like Carlyn supporting him in everything he does, especially
-								when it comes to running the gym!
+  <body>
+    <div class="page-wrapper">
+      <header class="header-10 header-23">
+        <div class="mask">&nbsp;</div>
+        <div class="popup-video">
+          <iframe
+            id="pPlayer"
+            src="https://player.vimeo.com/video/328729396"
+            frameborder="0"
+            webkitallowfullscreen
+            mozallowfullscreen
+            allow="autoplay; fullscreen"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="navbar col-sm-12" role="navigation">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle"></button>
+                <figure class="brand">
+                  <img
+                    src="img/spearhead-fitness-logo-white.svg"
+                    title="Spearhead Fitness"
+                  />
+                </figure>
+              </div>
+              <div class="collapse navbar-collapse pull-right">
+                <ul class="nav pull-left">
+                  <li>
+                    <a data-section="about-section" href="#about-section"
+                      >About</a
+                    >
+                  </li>
+                  <li>
+                    <a data-section="crew-section" href="#crew-section">Crew</a>
+                  </li>
+                  <!-- <li><a data-section="pricing-section" href="#pricing-section">Pricing</a></li> -->
+                  <li>
+                    <a data-section="contact-form" href="#contact-form"
+                      >Contact</a
+                    >
+                  </li>
+                </ul>
+                <form class="nav-scroll navbar-form pull-left">
+                  <a
+                    data-section="contact-form"
+                    href="#contact-form"
+                    class="btn btn-danger"
+                    >Sign Up</a
+                  >
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="header-background"></div>
+      </header>
+      <!-- Primary Hero -->
+      <section class="header-10-sub header-23-sub v-center">
+        <div id="bgVideo" class="background">&nbsp;</div>
+        <div>
+          <div class="container">
+            <div class="hero-unit">
+              <a class="btn-play" id="play" href="#">Play</a>
+              <h1>Pushing Past Your Limit</h1>
+              <p>
+                We have put together a gym that will change your life.<br />
+                Explore the Spearhead difference.
+              </p>
+              <span>Adult Class Times:</span>
+              <a
+                data-section="contact-form"
+                href="#contact-form"
+                class="btn btn-danger btn-sm"
+                >5:00am</a
+              >
+              <a
+                data-section="contact-form"
+                href="#contact-form"
+                class="btn btn-danger btn-sm"
+                >6:00am</a
+              >
+              <a
+                data-section="contact-form"
+                href="#contact-form"
+                class="btn btn-danger btn-sm"
+                >7:00am</a
+              >
+              <a
+                data-section="contact-form"
+                href="#contact-form"
+                class="btn btn-danger btn-sm"
+                >9:00am</a
+              >
+              <a
+                data-section="contact-form"
+                href="#contact-form"
+                class="btn btn-danger btn-sm"
+                >4:30pm</a
+              >
+              <a
+                data-section="contact-form"
+                href="#contact-form"
+                class="btn btn-danger btn-sm"
+                >5:30pm</a
+              >
+              <span>Teen Class Times:</span>
+              <a
+                data-section="contact-form"
+                href="#contact-form"
+                class="btn btn-danger btn-sm"
+                >3:30pm / Tues, Wed, Thurs (12-17)</a
+              >
+            </div>
+          </div>
+        </div>
+        <a class="control-btn fui-arrow-down" href="#"> </a>
+      </section>
+      <!-- What is CrossFit -->
+      <section class="content-15 v-center" id="about-section">
+        <div>
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <img
+                  class="promo"
+                  src="img/ksl-promo-2018.png"
+                  alt="KSL Best Gym Award 2018"
+                />
+              </div>
+            </div>
+            <div class="row">
+              <h1 class="col-sm-10 col-sm-offset-1">
+                So, What is SpearHead Fitness?
+              </h1>
+            </div>
+            <div class="row">
+              <h3 class="col-sm-10 col-sm-offset-1">
+                We believe specializing is the enemy, so we encompass all the
+                areas of fitness to prepare you for anything and everything that
+                life throws at you.
+              </h3>
+            </div>
+            <div class="row">
+              <div class="col-sm-6">
+                <p>
+                  Inside our gym, you are not going to find weight machines,
+                  treadmills or stairmasters. Instead, we work with kettlebells,
+                  barbells, medicine balls, climbing ropes, jump ropes, rings,
+                  plyo boxes and sand bags to hone in the ten different fitness
+                  domains- cardiovascular/respiratory endurance, stamina,
+                  strength, flexibility, power, speed, agility, balance,
+                  coordination and accuracy.
+                </p>
+              </div>
+              <div class="col-sm-6">
+                <p>
+                  All our workouts will focus on functional movement- movement
+                  found in nature and movement that our body was built to do.
+                  These movements are performed in day-to-life and we do them
+                  without even knowing it, whether we pick our keys up off the
+                  floor or squat on and off the toilet. These movements are
+                  necessary and even required to continue enjoying a healthy and
+                  pain-free life.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- CTA -->
+      <section class="content-11">
+        <div class="container nav-scroll">
+          <span>It's time to take over your body. Experience Spearhead!</span>
+          <a
+            data-section="contact-form"
+            class="btn btn-large btn-danger"
+            href="#"
+            >Sign Up Today</a
+          >
+        </div>
+      </section>
+      <!-- Third Hero -->
+      <section class="content-23 bg-midnight-blue custom-bg custom-bg-2">
+        <div class="holder v-center">
+          <div>
+            <div class="container">
+              <div class="hero-unit hero-unit-bordered">
+                <h1>Members = Family</h1>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a class="control-btn fui-arrow-down" href="#"> </a>
+      </section>
+      <!-- What is CrossFit / Cont -->
+      <section class="content-15 v-center">
+        <div>
+          <div class="container">
+            <div class="row">
+              <h3 class="col-sm-10 col-sm-offset-1">
+                At Spearhead Fitness, the workouts we do inside the gym are
+                individually programmed for each day, meaning we never do the
+                same workout twice.
+              </h3>
+            </div>
+            <div class="row">
+              <div class="col-sm-10 col-sm-offset-1">
+                <p>
+                  This is the "constantly varied" aspect of fitness. There is no
+                  set program of isolating different muscle groups three times a
+                  week and we never get into a workout routine. Specializing is
+                  the enemy, ensuring that you never get bored and you are
+                  continually progressing in fitness. Our workouts are rarely
+                  over 35 minutes, allowing them to fit into even the busiest of
+                  schedules. The days of hours of working on bicep curls and leg
+                  press in the gym are over. Our program is completely scalable
+                  to any fitness level and the result is a complete
+                  comprehensive understanding of physical fitness and an overall
+                  healthy lifestyle.
+                </p>
+              </div>
+            </div>
+            <div class="row features">
+              <div class="col-sm-5 col-sm-offset-1">
+                <h6>Build Fitness</h6>
+                <p>
+                  Within the walls of SpearHead Fitness, you will experience
+                  intense workouts that will get you in the best shape of your
+                  life; We never specialize and always push each client to
+                  continue working on strengths while knocking out individual
+                  weaknesses.
+                </p>
+              </div>
+              <div class="col-sm-5 col-sm-offset-1">
+                <h6>Meet Friends</h6>
+                <p>
+                  Working out with friends and family is what brings such a
+                  great community aspect to SpearHead Fitness. We encourage an
+                  atmosphere that is welcoming to all, whether you are an elite
+                  athlete or just coming off the couch for the first time.
+                </p>
+              </div>
+            </div>
+            <div class="row features">
+              <div class="col-sm-5 col-sm-offset-1">
+                <h6>Jump on Boxes</h6>
+                <p>
+                  Along with lifting barbells and doing pull-ups, we tap in to
+                  the inner-child in each of us and learn, among many other
+                  skills and drills, how to run, row, lift, pull, push, swing
+                  and jump with all of the different fun and exciting equipment
+                  we use inside the gym!
+                </p>
+              </div>
+              <div class="col-sm-5 col-sm-offset-1">
+                <h6>Puke Your Guts Out</h6>
+                <p>
+                  Ok, not really... But be ready to work your hardest when
+                  joining us for your hour-long class each day! Each workout
+                  should be intense and full of hard work, as it has been proven
+                  both in and out of our walls that this is the only way results
+                  can be achieved!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- Secondary Hero -->
+      <section class="content-23 bg-midnight-blue custom-bg">
+        <div class="holder v-center">
+          <div>
+            <div class="container">
+              <div class="hero-unit hero-unit-bordered">
+                <h1>Changing Lives Every Day</h1>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a class="control-btn fui-arrow-down" href="#"> </a>
+      </section>
+      <!-- CTA -->
+      <section class="content-11">
+        <div class="container nav-scroll">
+          <span>It's time to take over your body. Experience Spearhead!</span>
+          <a
+            data-section="contact-form"
+            class="btn btn-large btn-danger"
+            href="#"
+            >Sign Up Today</a
+          >
+        </div>
+      </section>
+      <!-- The Crew -->
+      <section class="crew-4" id="crew-section">
+        <div class="container">
+          <div class="row">
+            <h1 class="col-sm-10 col-sm-offset-1">Spearhead Coaches</h1>
+          </div>
+          <div class="row">
+            <h3>
+              We study long and hard to make sure your experience is
+              exceptional. We aren't just your coaches, we are your friends and
+              mentors joining you in a persuit to achieve optimal fitness.
+            </h3>
+          </div>
 
-								<div class="contacts">
-									CrossFit Level One / CrossFit Strongman / CrossFit Running and Endurance / CrossFit Kids / CrossFit
-									Power Lifting / CrossFit Olympic Lifting / CrossFit Mobility / CrossFit Football / CrossFit Gymnastics
-									/ CrossFit Coach's Prep
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+          <div class="members">
+            <div class="member-wrapper">
+              <div class="member">
+                <div class="photo-wrapper">
+                  <div class="photo">
+                    <img
+                      src="img/coach-pics-dallin.png"
+                      alt="Dallin Frampton"
+                    />
+                  </div>
+                </div>
+                <div class="info">
+                  <div class="name">Coach Dallin Frampton</div>
+                  As a resident of Holladay, Utah, Dallin, and his beautiful
+                  wife, Carlyn, are the Owners of SpearHead Fitness. Dallin is
+                  an avid runner, mountain biker, rock climber, triathlete,
+                  mountaineer, skier, surfer and adventurer. He has participated
+                  in 2 marathons and a handful of triathlons, 2 of which he got
+                  1st and 2nd place in his age group. He has also run the
+                  Wasatch Back relay four different times, competed in 12 half
+                  marathons and ridden the White rim trail 4 different times, 3
+                  of the attempts were under 16 hours. When he was training to
+                  tryout for the USA amateur triathlon team in 2009, Dallin was
+                  introduced to CrossFit and began coaching athletes just 18
+                  months later. Not only does he enjoy the competent and
+                  measurable aspect of CrossFit, but Dallin also has an amazing
+                  passion for his athletes and the completion of their goals
+                  through fitness, nutrition and life.<br /><br />
 
-				<br>
-				<hr>
-				<br>
+                  After graduating in 2008, he raised over $10,000 to build a
+                  school in the village of Dzivani, just outside of Mombasa,
+                  Kenya. After he received funding from CrossFit Headquarters to
+                  build another school, Coach Greg Glassman brought him on board
+                  to work for CrossFit HQ staff and Dallin is now Project Lead
+                  on this effort to build schools, water cisterns, desks and the
+                  like in rural Kenya, and also oversees all of the
+                  philanthropic work CrossFit HQ takes part in. Besides letting
+                  his adrenaline lead him through life, he also loves music and
+                  has been playing guitar for over 9 years.<br /><br />
 
-				<div class="members">
-					<div class="member-wrapper">
-						<div class="member">
-							<div class="photo-wrapper">
-								<div class="photo"><img src="img/coach-pics-carlyn.png" alt="Carlyn Frampton"></div>
-							</div>
-							<div class="info">
-								<div class="name">Coach Carlyn Frampton</div>
-								Hello, SpearHead Community! My name is Carlyn Frampton, Co-Owner of SpearHead Fitness with my husband,
-								Dallin Frampton. I am an obsessed CrossFitter, a recreational runner, mountain biker and rock climber
-								and a loving daughter, wife and coach.<br><br>
+                  During the Fall months of 2011, Dallin was able to meet the
+                  woman of his dreams and in June 2013, he was married to his
+                  beautiful and amazing bride, Carlyn Frampton, and they now are
+                  able to run a gym full of passionate, spirited people that
+                  they love coaching every single day. Dallin is so grateful to
+                  have such a hard-working and spirited elite-athlete like
+                  Carlyn supporting him in everything he does, especially when
+                  it comes to running the gym!
 
-								I am a resident of Holladay, Utah and absolutely love everything about my life. I have a loving Husband,
-								amazing family members, an incredible job and a supportive community around me in everything that I do.
-								What could be better than that, right?!<br><br>
+                  <div class="contacts">
+                    CrossFit Level One / CrossFit Strongman / CrossFit Running
+                    and Endurance / CrossFit Kids / CrossFit Power Lifting /
+                    CrossFit Olympic Lifting / CrossFit Mobility / CrossFit
+                    Football / CrossFit Gymnastics / CrossFit Coach's Prep
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
-								Dallin and I met back in 2011 after he took me on a midnight Millcreek Canyon/Pipeline trail run as our
-								first date. We dated for a few years before we were engaged and soon to be married. Quickly, I was
-								immersed in his life that included working for CrossFit Corporate in Kenya-based philanthropic efforts
-								as well as the crazy thought of opening a CrossFit gym. The rest is history, obviously, and because we
-								both loved to exercise, we decided to open the doors of Spearhead Fitness in 2013 on the premise that
-								helping other people achieve their goals, both in and out of the gym, is the single most important role
-								any gym owner can play.<br><br>
+          <br />
+          <hr />
+          <br />
 
-								I have now been CrossFitting competitively since 2012 on an elite-level and always look for
-								opportunities to further my competitive edge through both local and Open-style competitions. Competing
-								at Regionals has always been a dream of mine and I can’t wait to get there this year! I have completed
-								the Wasatch Back Ragnar relay multiple times, competed in dozens of half marathon races as well as raced
-								in a handful of road bike events.<br><br>
+          <div class="members">
+            <div class="member-wrapper">
+              <div class="member">
+                <div class="photo-wrapper">
+                  <div class="photo">
+                    <img
+                      src="img/coach-pics-carlyn.png"
+                      alt="Carlyn Frampton"
+                    />
+                  </div>
+                </div>
+                <div class="info">
+                  <div class="name">Coach Carlyn Frampton</div>
+                  Hello, SpearHead Community! My name is Carlyn Frampton,
+                  Co-Owner of SpearHead Fitness with my husband, Dallin
+                  Frampton. I am an obsessed CrossFitter, a recreational runner,
+                  mountain biker and rock climber and a loving daughter, wife
+                  and coach.<br /><br />
 
-								I couldn’t run the gym without Dallin and Dallin could DEFINITELY not run the gym without me! We both
-								play such an integral part in ensuring every one of our clients have a second-to-none experience and you
-								can absolutely bet that the next time you are working out with me, I will be cheering you on until I am
-								blue in the face! I love everything that SpearHead stands for and I can’t wait to be your Coach!
-								<div class="contacts">
-									CrossFit Level One / CrossFit Gymnastics / CrossFit Kids / CrossFit Mobility / Two-time Games
-									Regionals Competitor
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+                  I am a resident of Holladay, Utah and absolutely love
+                  everything about my life. I have a loving Husband, amazing
+                  family members, an incredible job and a supportive community
+                  around me in everything that I do. What could be better than
+                  that, right?!<br /><br />
 
-				<br>
-				<hr>
-				<br>
+                  Dallin and I met back in 2011 after he took me on a midnight
+                  Millcreek Canyon/Pipeline trail run as our first date. We
+                  dated for a few years before we were engaged and soon to be
+                  married. Quickly, I was immersed in his life that included
+                  working for CrossFit Corporate in Kenya-based philanthropic
+                  efforts as well as the crazy thought of opening a CrossFit
+                  gym. The rest is history, obviously, and because we both loved
+                  to exercise, we decided to open the doors of Spearhead Fitness
+                  in 2013 on the premise that helping other people achieve their
+                  goals, both in and out of the gym, is the single most
+                  important role any gym owner can play.<br /><br />
 
-				<div class="members">
-					<div class="member-wrapper">
-						<div class="member">
-							<div class="photo-wrapper">
-								<div class="photo"><img src="img/coach-pics-chris.png" alt="Chris McNerney"></div>
-							</div>
-							<div class="info">
-								<div class="name">Coach Chris McNerney</div>
-								Born and raised on the east coast, I moved to Salt Lake City in 2012 after getting out of the Navy.
-								Within the first year of living here, I discovered CrossFit and fell in love with it immediately. The
-								community, along with the mental and physical aspects of uncovering the dark sides about yourself-was
-								something that drew me to it even more.<br><br>
+                  I have now been CrossFitting competitively since 2012 on an
+                  elite-level and always look for opportunities to further my
+                  competitive edge through both local and Open-style
+                  competitions. Competing at Regionals has always been a dream
+                  of mine and I can’t wait to get there this year! I have
+                  completed the Wasatch Back Ragnar relay multiple times,
+                  competed in dozens of half marathon races as well as raced in
+                  a handful of road bike events.<br /><br />
 
-								I was attracted to this so much, that I wanted to try and share that with other people. Having had my
-								own personal obstacles and challenges related to health and wellness, coaching has been my way to give
-								back and share that with other people. I pride myself on quality over quantity and the preservation of
-								longevity in all aspects of my life, but mostly with fitness. Having had to bounce back from a
-								significant knee injury in the last year myself, I understand the challenges associated with slowing
-								down and refining movement patterns.M<br><br>
+                  I couldn’t run the gym without Dallin and Dallin could
+                  DEFINITELY not run the gym without me! We both play such an
+                  integral part in ensuring every one of our clients have a
+                  second-to-none experience and you can absolutely bet that the
+                  next time you are working out with me, I will be cheering you
+                  on until I am blue in the face! I love everything that
+                  SpearHead stands for and I can’t wait to be your Coach!
+                  <div class="contacts">
+                    CrossFit Level One / CrossFit Gymnastics / CrossFit Kids /
+                    CrossFit Mobility / Two-time Games Regionals Competitor
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
-								Currently, I am finishing up my degree at the University of Utah in Kinesiology & Nutrition. In my free
-								time, fitness, mountain biking, ice hockey, traveling and spending time with friends and family is what
-								keeps me busy.
-								<div class="contacts">
-									CrossFit Level Two
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+          <br />
+          <hr />
+          <br />
 
-				<br>
-				<hr>
-				<br>
+          <div class="members">
+            <div class="member-wrapper">
+              <div class="member">
+                <div class="photo-wrapper">
+                  <div class="photo">
+                    <img src="img/coach-pics-chris.png" alt="Chris McNerney" />
+                  </div>
+                </div>
+                <div class="info">
+                  <div class="name">Coach Chris McNerney</div>
+                  Born and raised on the east coast, I moved to Salt Lake City
+                  in 2012 after getting out of the Navy. Within the first year
+                  of living here, I discovered CrossFit and fell in love with it
+                  immediately. The community, along with the mental and physical
+                  aspects of uncovering the dark sides about yourself-was
+                  something that drew me to it even more.<br /><br />
 
-				<div class="members">
-					<div class="member-wrapper">
-						<div class="member">
-							<div class="photo-wrapper">
-								<div class="photo"><img src="img/coach-pics-scot.png" alt="Scot Neff"></div>
-							</div>
-							<div class="info">
-								<div class="name">Coach Scot Neff</div>
-								Scot Neff is thrilled and honored to be a coach at Spearhead Fitness. He has been a Salt Lake resident
-								most of his life and is currently the Director of Zermatt Resort’s Sports Academy. In 2015, Scot
-								graduated with his Masters of Business Administration with an emphasis in Entrepreneurship at
-								Westminster College. In 2011 he graduated with his Bachelors in Economics from the University of Utah.
-								During his undergraduate, Scot earned a spot on the A side roster of the U of U’s Rugby team where he
-								learned discipline, grit, and leadership skills. He is happily married to the love of his life and
-								currently has two amazing boys that brighten their lives daily. Scot is an avid outdoorsman and loves
-								spending time fly fishing, skiing, hiking, diving, snowmobiling, horseback riding, and hunting.<br><br>
+                  I was attracted to this so much, that I wanted to try and
+                  share that with other people. Having had my own personal
+                  obstacles and challenges related to health and wellness,
+                  coaching has been my way to give back and share that with
+                  other people. I pride myself on quality over quantity and the
+                  preservation of longevity in all aspects of my life, but
+                  mostly with fitness. Having had to bounce back from a
+                  significant knee injury in the last year myself, I understand
+                  the challenges associated with slowing down and refining
+                  movement patterns.M<br /><br />
 
-								Due to a skiing accident, Scot had a crippling back injury. He felt like he could no longer do the
-								things he loved. He was always in pain, unsure of himself, and felt helpless. After trying just about
-								every type of exercise and fitness to aid Scot’s recovery, he had a rugby teammate tell him to try
-								CrossFit. That was in October of 2013 and today he is stronger, faster, fitter, and overall happier than
-								he has ever been before.<br><br>
+                  Currently, I am finishing up my degree at the University of
+                  Utah in Kinesiology & Nutrition. In my free time, fitness,
+                  mountain biking, ice hockey, traveling and spending time with
+                  friends and family is what keeps me busy.
+                  <div class="contacts">CrossFit Level Two</div>
+                </div>
+              </div>
+            </div>
+          </div>
 
-								Coming from someone who at one point couldn’t sit through a movie, ride in a car, jump, or tie his own
-								shoes, Scot is a true believer in CrossFit. The functional movement and fitness behind CrossFit
-								strengthens the human body in ways one cannot comprehend. It is all about taking things slow, and
-								growing one step at a time. There is something beautiful about doing hard things, CrossFit will make a
-								person do just that. As a coach, Scot’s strengths are pushing athletes to the next level and helping
-								them get through their own ‘pain caves’. He believes that by pushing through self-doubt and weakness the
-								output will be positive for both body and mind. If one hasn’t tried Spearhead Fitness, do it! It will
-								change all facets of life for good.
+          <br />
+          <hr />
+          <br />
 
-								<div class="contacts">
-									CrossFit Level One
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+          <div class="members">
+            <div class="member-wrapper">
+              <div class="member">
+                <div class="photo-wrapper">
+                  <div class="photo">
+                    <img src="img/coach-pics-scot.png" alt="Scot Neff" />
+                  </div>
+                </div>
+                <div class="info">
+                  <div class="name">Coach Scot Neff</div>
+                  Scot Neff is thrilled and honored to be a coach at Spearhead
+                  Fitness. He has been a Salt Lake resident most of his life and
+                  is currently the Director of Zermatt Resort’s Sports Academy.
+                  In 2015, Scot graduated with his Masters of Business
+                  Administration with an emphasis in Entrepreneurship at
+                  Westminster College. In 2011 he graduated with his Bachelors
+                  in Economics from the University of Utah. During his
+                  undergraduate, Scot earned a spot on the A side roster of the
+                  U of U’s Rugby team where he learned discipline, grit, and
+                  leadership skills. He is happily married to the love of his
+                  life and currently has two amazing boys that brighten their
+                  lives daily. Scot is an avid outdoorsman and loves spending
+                  time fly fishing, skiing, hiking, diving, snowmobiling,
+                  horseback riding, and hunting.<br /><br />
 
-				<br>
-				<hr>
-				<br>
+                  Due to a skiing accident, Scot had a crippling back injury. He
+                  felt like he could no longer do the things he loved. He was
+                  always in pain, unsure of himself, and felt helpless. After
+                  trying just about every type of exercise and fitness to aid
+                  Scot’s recovery, he had a rugby teammate tell him to try
+                  CrossFit. That was in October of 2013 and today he is
+                  stronger, faster, fitter, and overall happier than he has ever
+                  been before.<br /><br />
 
-				<div class="members">
-					<div class="member-wrapper">
-						<div class="member">
-							<div class="photo-wrapper">
-								<div class="photo"><img src="img/coach-pics-luke.png" alt="Luke Smith"></div>
-							</div>
-							<div class="info">
-								<div class="name">Coach Luke Smith</div>
-								Luke was born and raised in Salt Lake City only a few blocks away from the gym. He grew up playing team
-								sports such as football, lacrosse and rugby but as he grew he gravitated more toward individual sports
-								and really fell in love with the martial arts in 2009. Since then he has competed in a number of amateur
-								level grappling tournaments and mixed martial arts fights. He also currently serves in the US Army
-								reserve and loves taking care of his soldiers and helping his squad accomplish their missions. If Luke
-								were to have a mission statement it would be as follows; "stack the odds in your favor to live a long
-								and healthy life."" Crossfit teaches, and Luke affirms that physical strength and conditioning are
-								essential to living long and enjoying life.
+                  Coming from someone who at one point couldn’t sit through a
+                  movie, ride in a car, jump, or tie his own shoes, Scot is a
+                  true believer in CrossFit. The functional movement and fitness
+                  behind CrossFit strengthens the human body in ways one cannot
+                  comprehend. It is all about taking things slow, and growing
+                  one step at a time. There is something beautiful about doing
+                  hard things, CrossFit will make a person do just that. As a
+                  coach, Scot’s strengths are pushing athletes to the next level
+                  and helping them get through their own ‘pain caves’. He
+                  believes that by pushing through self-doubt and weakness the
+                  output will be positive for both body and mind. If one hasn’t
+                  tried Spearhead Fitness, do it! It will change all facets of
+                  life for good.
 
-								<div class="contacts">
-									CrossFit Level One / CrossFit Level Two
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+                  <div class="contacts">CrossFit Level One</div>
+                </div>
+              </div>
+            </div>
+          </div>
 
-				<br>
-				<hr>
-				<br>
+          <br />
+          <hr />
+          <br />
 
-				<div class="members">
-					<div class="member-wrapper">
-						<div class="member">
-							<div class="photo-wrapper">
-								<div class="photo"><img src="img/coach-pics-summer.png" alt="Summer Andrus"></div>
-							</div>
-							<div class="info">
-								<div class="name">Coach Summer Andrus</div>
-								I fell in love with the mountains of Salt Lake when I moved out here from St. Louis to attend the
-								University of Utah. I took up rock climbing, river rafting, trail and road running, hiking, backpacking
-								and eventually swimming, and road and mountain biking. In 2004 I discovered triathlons and began
-								competing in sprint, olympic, half, and eventually full Ironman distances. In 2008 I started coaching
-								triathlon training, running, swimming, and spin courses at the University of Utah for the Exercise &amp;
-								Sports Science department. I loved helping students achieve their goals, overcome challenges, try new
-								things and find themselves doing things they never thought they could do. There’s a rush that comes with
-								being a part of that journey. I also spent a few years working with spinal cord injury (SCI) patients at
-								the University of Utah Rehabilitation center. While most of my duties were administrative, I had the
-								absolute joy and pleasure of working with SCI outpatients in the TRAILS (Therapeutic Recreation &amp;
-								Independent Life Styles) program. With adaptive equipment we helped people learn how to cross-country
-								ski, downhill ski, kayak, handcycle, and participate in marathon handcycle divisions with what body and
-								muscular function remained post-injury. I’ve also spent time working with teenagers including teaching
-								high school health, coordinating and teaching in a secondary education program for teenagers struggling
-								with mental illnesses, and earning my Master’s in Public Health with an emphasis in health
-								communications and adolescent health. I can’t think of a better fit for the rollercoaster of teenage
-								life than a CrossFit program and I’m excited to be a part of it.<br><br>
+          <div class="members">
+            <div class="member-wrapper">
+              <div class="member">
+                <div class="photo-wrapper">
+                  <div class="photo">
+                    <img src="img/coach-pics-luke.png" alt="Luke Smith" />
+                  </div>
+                </div>
+                <div class="info">
+                  <div class="name">Coach Luke Smith</div>
+                  Luke was born and raised in Salt Lake City only a few blocks
+                  away from the gym. He grew up playing team sports such as
+                  football, lacrosse and rugby but as he grew he gravitated more
+                  toward individual sports and really fell in love with the
+                  martial arts in 2009. Since then he has competed in a number
+                  of amateur level grappling tournaments and mixed martial arts
+                  fights. He also currently serves in the US Army reserve and
+                  loves taking care of his soldiers and helping his squad
+                  accomplish their missions. If Luke were to have a mission
+                  statement it would be as follows; "stack the odds in your
+                  favor to live a long and healthy life."" Crossfit teaches, and
+                  Luke affirms that physical strength and conditioning are
+                  essential to living long and enjoying life.
 
-								I’m the lucky wife to a loving husband, a mother to two incredible boys, an outdoor enthusiast, a life
-								long learner, a seeker of good, a great cook, a Mandarin speaker, an athlete, and, dare I say, a donut
-								lover. After having kids and finding I no longer had ample hours to maintain my triathlon training,
-								CrossFit helped restore the athlete in me and keeps me on a road to the highest level of general fitness
-								I can achieve, an ongoing journey where today I can be better than yesterday. Plus, it’s just fun! And
-								you can’t beat the SpearHead community.
+                  <div class="contacts">
+                    CrossFit Level One / CrossFit Level Two
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
-								<div class="contacts">
-									CrossFit Level One / CrossFit Kids / CrossFit Running and Endurance
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+          <br />
+          <hr />
+          <br />
 
-				<br>
-				<hr>
-				<br>
+          <div class="members">
+            <div class="member-wrapper">
+              <div class="member">
+                <div class="photo-wrapper">
+                  <div class="photo">
+                    <img src="img/coach-pics-summer.png" alt="Summer Andrus" />
+                  </div>
+                </div>
+                <div class="info">
+                  <div class="name">Coach Summer Andrus</div>
+                  I fell in love with the mountains of Salt Lake when I moved
+                  out here from St. Louis to attend the University of Utah. I
+                  took up rock climbing, river rafting, trail and road running,
+                  hiking, backpacking and eventually swimming, and road and
+                  mountain biking. In 2004 I discovered triathlons and began
+                  competing in sprint, olympic, half, and eventually full
+                  Ironman distances. In 2008 I started coaching triathlon
+                  training, running, swimming, and spin courses at the
+                  University of Utah for the Exercise &amp; Sports Science
+                  department. I loved helping students achieve their goals,
+                  overcome challenges, try new things and find themselves doing
+                  things they never thought they could do. There’s a rush that
+                  comes with being a part of that journey. I also spent a few
+                  years working with spinal cord injury (SCI) patients at the
+                  University of Utah Rehabilitation center. While most of my
+                  duties were administrative, I had the absolute joy and
+                  pleasure of working with SCI outpatients in the TRAILS
+                  (Therapeutic Recreation &amp; Independent Life Styles)
+                  program. With adaptive equipment we helped people learn how to
+                  cross-country ski, downhill ski, kayak, handcycle, and
+                  participate in marathon handcycle divisions with what body and
+                  muscular function remained post-injury. I’ve also spent time
+                  working with teenagers including teaching high school health,
+                  coordinating and teaching in a secondary education program for
+                  teenagers struggling with mental illnesses, and earning my
+                  Master’s in Public Health with an emphasis in health
+                  communications and adolescent health. I can’t think of a
+                  better fit for the rollercoaster of teenage life than a
+                  CrossFit program and I’m excited to be a part of it.<br /><br />
 
-				<div class="members">
-					<div class="member-wrapper">
-						<div class="member">
-							<div class="photo-wrapper">
-								<div class="photo"><img src="img/coach-pics-katy.png" alt="Katie Graham"></div>
-							</div>
-							<div class="info">
-								<div class="name">Coach Katie Graham</div>
-								I began working out the first time that leg warmers were cool ;) when the heaviest thing a girl should
-								pick up was a 5lb hand weight. I’ve seen every work out trend (and enjoyed most all of them!) including
-								step aerobics, distance running, spin, Triathlon training, yoga, TRX... basically you name it I’ve tried
-								it. After working many years to ‘get in shape’ or ‘stay in shape’ I’ve learned so many great things
-								about not only fitness, but about the amazing way our body is designed to move and the responsibility we
-								each have to learn how to keep it moving without pain over long periods of time.<br><br>
+                  I’m the lucky wife to a loving husband, a mother to two
+                  incredible boys, an outdoor enthusiast, a life long learner, a
+                  seeker of good, a great cook, a Mandarin speaker, an athlete,
+                  and, dare I say, a donut lover. After having kids and finding
+                  I no longer had ample hours to maintain my triathlon training,
+                  CrossFit helped restore the athlete in me and keeps me on a
+                  road to the highest level of general fitness I can achieve, an
+                  ongoing journey where today I can be better than yesterday.
+                  Plus, it’s just fun! And you can’t beat the SpearHead
+                  community.
 
-								The best way to do this is with a little daily effort and a little self discipline. And of course, the
-								education to know what to do and when.<br><br>
+                  <div class="contacts">
+                    CrossFit Level One / CrossFit Kids / CrossFit Running and
+                    Endurance
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
-								In 2013 I began to use CrossFit as my daily workout, and soon after discovered that Mobility, which is
-								movement that repairs muscle fibers and prepares your body to move more comfortably, makes working out
-								not only more enjoyable, but much more sustainable. This, for me, was like the missing link of fitness!
-								I’ve been a mobility junky ever since, and have sought out any opportunity to learn about this aspect of
-								fitness and how to share it with others.<br><br>
+          <br />
+          <hr />
+          <br />
 
-								In January of 2015 I completed the mobility course with CrossFit HQ, and in November 2015 became a level
-								1 CrossFit coach. During the first half of 2016 I worked to obtain a 200 hour yoga teacher training
-								certificate, which has served to round out my passion for mobility and movement.<br><br>
+          <div class="members">
+            <div class="member-wrapper">
+              <div class="member">
+                <div class="photo-wrapper">
+                  <div class="photo">
+                    <img src="img/coach-pics-katy.png" alt="Katie Graham" />
+                  </div>
+                </div>
+                <div class="info">
+                  <div class="name">Coach Katie Graham</div>
+                  I began working out the first time that leg warmers were cool
+                  ;) when the heaviest thing a girl should pick up was a 5lb
+                  hand weight. I’ve seen every work out trend (and enjoyed most
+                  all of them!) including step aerobics, distance running, spin,
+                  Triathlon training, yoga, TRX... basically you name it I’ve
+                  tried it. After working many years to ‘get in shape’ or ‘stay
+                  in shape’ I’ve learned so many great things about not only
+                  fitness, but about the amazing way our body is designed to
+                  move and the responsibility we each have to learn how to keep
+                  it moving without pain over long periods of time.<br /><br />
 
-								When not enjoying the gym I am working to enjoy my family and serve in my church. I love working out
-								with and being a partner to my husband John. Together we enjoy (?) the chaos of raising 6 children, 1
-								dog and 9 chickens. In any moments to spare we love serving in the refugee community and spending time
-								with amazing people like those at Spearhead Fitness.
+                  The best way to do this is with a little daily effort and a
+                  little self discipline. And of course, the education to know
+                  what to do and when.<br /><br />
 
-								<div class="contacts">
-									CrossFit Level One / CrossFit Mobility / Yoga Instructor
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
+                  In 2013 I began to use CrossFit as my daily workout, and soon
+                  after discovered that Mobility, which is movement that repairs
+                  muscle fibers and prepares your body to move more comfortably,
+                  makes working out not only more enjoyable, but much more
+                  sustainable. This, for me, was like the missing link of
+                  fitness! I’ve been a mobility junky ever since, and have
+                  sought out any opportunity to learn about this aspect of
+                  fitness and how to share it with others.<br /><br />
 
-			</div>
-			<!--/.container-->
-		</section>
-		<!-- Fourth Hero -->
-		<section class="content-23 bg-midnight-blue custom-bg custom-bg-3">
-			<div class="holder v-center">
-				<div>
-					<div class="container">
-						<div class="hero-unit hero-unit-bordered">
-							<h1>Socially Awesome</h1>
-						</div>
-					</div>
-				</div>
-			</div>
-			<a class="control-btn fui-arrow-down" href="#"> </a>
-		</section>
-		<!-- CTA -->
-		<section class="content-11">
-			<div class="container nav-scroll">
-				<span>What are you waiting for? Join today!</span>
-				<a data-section="contact-form" class="btn btn-large btn-danger" href="#">Sign Up Today</a>
-			</div>
-		</section>
-		<!-- Instagram -->
-		<section class="content-17 v-center">
-			<div>
-				<div class="container">
-					<div class="row">
-						<h1 class="col-sm-10 col-sm-offset-1">Current Happenings</h1>
-					</div>
-					<div class="row">
-						<h3 class="col-sm-10 col-sm-offset-1">See the next WOD &amp; keep up with the latest news by following <a
-								href="http://instagram.com/spearhead.fitness" target="_blank">Spearhead Fitness</a> on Instagram.</h3>
-					</div>
-					<div class="row">
-						<!-- <article id="feed"></article> -->
-					</div>
-					<div class="row">
-						<hr>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- CTA -->
-		<section class="content-11">
-			<div class="container nav-scroll">
-				<span>Don't see your face in our photos? Join up!</span>
-				<a data-section="contact-form" class="btn btn-large btn-danger" target="_blank" href="#">Experience
-					Spearhead</a>
-			</div>
-		</section>
-		<!-- Price -->
-		<!-- <section class="price-5" id="pricing-section">
+                  In January of 2015 I completed the mobility course with
+                  CrossFit HQ, and in November 2015 became a level 1 CrossFit
+                  coach. During the first half of 2016 I worked to obtain a 200
+                  hour yoga teacher training certificate, which has served to
+                  round out my passion for mobility and movement.<br /><br />
+
+                  When not enjoying the gym I am working to enjoy my family and
+                  serve in my church. I love working out with and being a
+                  partner to my husband John. Together we enjoy (?) the chaos of
+                  raising 6 children, 1 dog and 9 chickens. In any moments to
+                  spare we love serving in the refugee community and spending
+                  time with amazing people like those at Spearhead Fitness.
+
+                  <div class="contacts">
+                    CrossFit Level One / CrossFit Mobility / Yoga Instructor
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--/.container-->
+      </section>
+      <!-- Fourth Hero -->
+      <section class="content-23 bg-midnight-blue custom-bg custom-bg-3">
+        <div class="holder v-center">
+          <div>
+            <div class="container">
+              <div class="hero-unit hero-unit-bordered">
+                <h1>Socially Awesome</h1>
+              </div>
+            </div>
+          </div>
+        </div>
+        <a class="control-btn fui-arrow-down" href="#"> </a>
+      </section>
+      <!-- CTA -->
+      <section class="content-11">
+        <div class="container nav-scroll">
+          <span>What are you waiting for? Join today!</span>
+          <a
+            data-section="contact-form"
+            class="btn btn-large btn-danger"
+            href="#"
+            >Sign Up Today</a
+          >
+        </div>
+      </section>
+      <!-- Instagram -->
+      <section class="content-17 v-center">
+        <div>
+          <div class="container">
+            <div class="row">
+              <h1 class="col-sm-10 col-sm-offset-1">Current Happenings</h1>
+            </div>
+            <div class="row">
+              <h3 class="col-sm-10 col-sm-offset-1">
+                See the next WOD &amp; keep up with the latest news by following
+                <a href="http://instagram.com/spearhead.fitness" target="_blank"
+                  >Spearhead Fitness</a
+                >
+                on Instagram.
+              </h3>
+            </div>
+            <div class="row">
+              <!-- <article id="feed"></article> -->
+            </div>
+            <div class="row">
+              <hr />
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- CTA -->
+      <section class="content-11">
+        <div class="container nav-scroll">
+          <span>Don't see your face in our photos? Join up!</span>
+          <a
+            data-section="contact-form"
+            class="btn btn-large btn-danger"
+            target="_blank"
+            href="#"
+            >Experience Spearhead</a
+          >
+        </div>
+      </section>
+      <!-- Price -->
+      <!-- <section class="price-5" id="pricing-section">
 			<div class="container">
 				<div class="row">
 					<h1 class="col-sm-10 col-sm-offset-1">Membership Pricing</h1>
@@ -769,8 +1018,8 @@
 				</div>
 			</div>
 		</section> -->
-		<!-- Price Cont. -->
-		<!-- <section class="price-5">
+      <!-- Price Cont. -->
+      <!-- <section class="price-5">
 			<div class="container">
 				<div class="row">
 					<h3 class="col-sm-10 col-sm-offset-1">We offer introductory classes to ensure your movements and technique are spot on before moving on to the advanded workouts. Injury free is the only way to be!</h3>
@@ -836,108 +1085,191 @@
 				</div>
 			</div>
 		</section> -->
-		<!-- Wodify Form -->
-		<section class="contacts-1" id="contact-form">
-			<div class="container">
-				<div class="row">
-					<h1 class="col-sm-10 col-sm-offset-1">Sign up Today!</h1>
-				</div>
-				<div class="row">
-					<h3 class="col-sm-10 col-sm-offset-1">It's time to stop talking and time to change your life. Join today and
-						experience the Spearhead difference!</h3>
-				</div>
-				
-				<!-- Form -->
-				<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzbyjpve" method="post">
-					<fieldset id="fs-frm-inputs">
-						<label for="full-name">Full Name</label>
-						<input class="form-control" type="text" name="name" id="full-name" placeholder="First and Last name..." required="">
-						
-						<label for="email-address">Email Address</label>
-						<input class="form-control" type="email" name="_replyto" id="email-address" placeholder="Your email..." required="">
+      <!-- Wodify Form -->
+      <section class="contacts-1" id="contact-form">
+        <div class="container">
+          <div class="row">
+            <h1 class="col-sm-10 col-sm-offset-1">Sign up Today!</h1>
+          </div>
+          <div class="row">
+            <h3 class="col-sm-10 col-sm-offset-1">
+              It's time to stop talking and time to change your life. Join today
+              and experience the Spearhead difference!
+            </h3>
+          </div>
 
-						<label for="telephone">Phone (Optional)</label>
-    				<input type="telephone" name="telephone" id="telephone" placeholder="(555) 555-5555">
-						
-						<label for="message">Message</label>
-						<textarea class="form-control" rows="5" name="message" id="message" placeholder="Leave us a message here..." required=""></textarea>
-						
-						<input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-					</fieldset>
+          <!-- Form -->
+          <form
+            id="fs-frm"
+            name="simple-contact-form"
+            accept-charset="utf-8"
+            action="https://formspree.io/f/xrgryzoj"
+            method="post"
+          >
+            <fieldset id="fs-frm-inputs">
+              <label for="full-name">Full Name</label>
+              <input
+                class="form-control"
+                type="text"
+                name="name"
+                id="full-name"
+                placeholder="First and Last name..."
+                required=""
+              />
 
-					<button class="btn btn-large btn-danger" type="submit" id="fs-form-button">Submit</button>
-					<p id="fs-form-status"></p>
-				</form>
-			</div>
-		</section>
-		<!-- Contact -->
-		<section id="contact" class="contacts-5">
-			<div class="map" id="contact-section">
-				<!--map-->
-				<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-					src="https://www.google.com/maps/d/embed?mid=zTvsOR7cKs9s.kIGdIkrndWN0"></iframe>
-			</div>
-			<div class="container">
-				<div class="row" style="box-sizing:border-box;">
-					<div class="col-sm-3">
-						<a href="http://www.crossfitkids.com/" target="_blank" title="CrossFit Kids">
-							<img src="img/crossfit-kids.png" width="300px" height="150px" alt="CrossFit Kids" /></a>
-					</div>
-					<div class="col-sm-4 col-sm-offset-1 box">
-						<div class="box box-first">
-							<h6>Experience Spearhead Fitness</h6>
-							<p>4540 S Highland Drive <br>Holladay, Utah 84117</p>
-							<p>801-870-9657 / <a
-									href="mailto:spearhead@crossfitspearhead.com?subject=General Inquiry">spearhead@crossfitspearhead.com</a>
-							</p>
-						</div>
-					</div>
-					<div class="col-sm-3 col-sm-offset-1 box">
-						<a href="http://journal.crossfit.com/start.tpl?version=CFJ-graphic300x150" target="_blank"
-							title="CrossFit Journal: The Performance-Based Lifestyle Resource">
-							<img src="http://journal.crossfit.com/templates/images/graphic-300x150.jpg" width="300px" height="150px"
-								alt="CrossFit Journal: The Performance-Based Lifestyle Resource" /></a>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- Footer -->
-		<footer class="footer-13">
-			<div class="container">
-				<nav class="pull-left">
-					<ul>
-						<li><a href="https://twitter.com/CFitSpearhead/">Twitter</a></li>
-						<li><a href="http://instagram.com/crossfitspearhead">Instagram</a></li>
-					</ul>
-				</nav>
-				<figure class="footer-logo"><img src="img/spearhead-fitness-logo.svg" title="Spearhead Fitness"></figure>
-				<nav class="pull-right">
-					<ul>
-						<li><a href="https://www.facebook.com/crossfit.spearhead">Facebook</a></li>
-						<li><a href="https://hope.crossfit.com/">Hope for Kenya</a></li>
-					</ul>
-				</nav>
-			</div>
-		</footer>
-	</div>
-	<!-- Placed at the end of the document so the pages load faster -->
-	<script src="startup/common-files/js/jquery.bxslider.min.js"></script>
-	<script src="startup/common-files/js/jquery.scrollTo-1.4.3.1-min.js"></script>
-	<script src="startup/common-files/js/jquery.sharrre.min.js"></script>
-	<script src="startup/flat-ui/js/bootstrap.min.js"></script>
-	<script src="startup/common-files/js/masonry.pkgd.min.js"></script>
-	<script src="startup/common-files/js/modernizr.custom.js"></script>
-	<script src="startup/common-files/js/page-transitions.js"></script>
-	<script src="startup/common-files/js/easing.min.js"></script>
-	<script src="startup/common-files/js/jquery.svg.js"></script>
-	<script src="startup/common-files/js/jquery.svganim.js"></script>
-	<script src="startup/common-files/js/jquery.backgroundvideo.min.js"></script>
-	<script src="startup/common-files/js/jquery.parallax.min.js"></script>
-	<script src="startup/common-files/js/froogaloop.min.js"></script>
-	<script src="startup/common-files/js/startup-kit.js"></script>
+              <label for="email-address">Email Address</label>
+              <input
+                class="form-control"
+                type="email"
+                name="_replyto"
+                id="email-address"
+                placeholder="Your email..."
+                required=""
+              />
 
-	<!-- Add Ons -->
-	<!-- <script src="js/dug.js"></script>
+              <label for="telephone">Phone (Optional)</label>
+              <input
+                type="telephone"
+                name="telephone"
+                id="telephone"
+                placeholder="(555) 555-5555"
+              />
+
+              <label for="message">Message</label>
+              <textarea
+                class="form-control"
+                rows="5"
+                name="message"
+                id="message"
+                placeholder="Leave us a message here..."
+                required=""
+              ></textarea>
+
+              <input
+                type="hidden"
+                name="_subject"
+                id="email-subject"
+                value="Contact Form Submission"
+              />
+            </fieldset>
+
+            <button
+              class="btn btn-large btn-danger"
+              type="submit"
+              id="fs-form-button"
+            >
+              Submit
+            </button>
+            <p id="fs-form-status"></p>
+          </form>
+        </div>
+      </section>
+      <!-- Contact -->
+      <section id="contact" class="contacts-5">
+        <div class="map" id="contact-section">
+          <!--map-->
+          <iframe
+            width="100%"
+            height="100%"
+            frameborder="0"
+            scrolling="no"
+            marginheight="0"
+            marginwidth="0"
+            src="https://www.google.com/maps/d/embed?mid=zTvsOR7cKs9s.kIGdIkrndWN0"
+          ></iframe>
+        </div>
+        <div class="container">
+          <div class="row" style="box-sizing: border-box">
+            <div class="col-sm-3">
+              <a
+                href="http://www.crossfitkids.com/"
+                target="_blank"
+                title="CrossFit Kids"
+              >
+                <img
+                  src="img/crossfit-kids.png"
+                  width="300px"
+                  height="150px"
+                  alt="CrossFit Kids"
+              /></a>
+            </div>
+            <div class="col-sm-4 col-sm-offset-1 box">
+              <div class="box box-first">
+                <h6>Experience Spearhead Fitness</h6>
+                <p>4540 S Highland Drive <br />Holladay, Utah 84117</p>
+                <p>
+                  801-870-9657 /
+                  <a
+                    href="mailto:spearhead@crossfitspearhead.com?subject=General Inquiry"
+                    >spearhead@crossfitspearhead.com</a
+                  >
+                </p>
+              </div>
+            </div>
+            <div class="col-sm-3 col-sm-offset-1 box">
+              <a
+                href="http://journal.crossfit.com/start.tpl?version=CFJ-graphic300x150"
+                target="_blank"
+                title="CrossFit Journal: The Performance-Based Lifestyle Resource"
+              >
+                <img
+                  src="http://journal.crossfit.com/templates/images/graphic-300x150.jpg"
+                  width="300px"
+                  height="150px"
+                  alt="CrossFit Journal: The Performance-Based Lifestyle Resource"
+              /></a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- Footer -->
+      <footer class="footer-13">
+        <div class="container">
+          <nav class="pull-left">
+            <ul>
+              <li><a href="https://twitter.com/CFitSpearhead/">Twitter</a></li>
+              <li>
+                <a href="http://instagram.com/crossfitspearhead">Instagram</a>
+              </li>
+            </ul>
+          </nav>
+          <figure class="footer-logo">
+            <img
+              src="img/spearhead-fitness-logo.svg"
+              title="Spearhead Fitness"
+            />
+          </figure>
+          <nav class="pull-right">
+            <ul>
+              <li>
+                <a href="https://www.facebook.com/crossfit.spearhead"
+                  >Facebook</a
+                >
+              </li>
+              <li><a href="https://hope.crossfit.com/">Hope for Kenya</a></li>
+            </ul>
+          </nav>
+        </div>
+      </footer>
+    </div>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="startup/common-files/js/jquery.bxslider.min.js"></script>
+    <script src="startup/common-files/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+    <script src="startup/common-files/js/jquery.sharrre.min.js"></script>
+    <script src="startup/flat-ui/js/bootstrap.min.js"></script>
+    <script src="startup/common-files/js/masonry.pkgd.min.js"></script>
+    <script src="startup/common-files/js/modernizr.custom.js"></script>
+    <script src="startup/common-files/js/page-transitions.js"></script>
+    <script src="startup/common-files/js/easing.min.js"></script>
+    <script src="startup/common-files/js/jquery.svg.js"></script>
+    <script src="startup/common-files/js/jquery.svganim.js"></script>
+    <script src="startup/common-files/js/jquery.backgroundvideo.min.js"></script>
+    <script src="startup/common-files/js/jquery.parallax.min.js"></script>
+    <script src="startup/common-files/js/froogaloop.min.js"></script>
+    <script src="startup/common-files/js/startup-kit.js"></script>
+
+    <!-- Add Ons -->
+    <!-- <script src="js/dug.js"></script>
 	<script>
 		dug({
 			endpoint: 'https://api.instagram.com/v1/users/474470187/media/recent/?access_token=474470187.a5833f1.454defe3568243fb97da1ea7ccab8c17',
@@ -956,83 +1288,109 @@
 		});
 	</script> -->
 
-	<!-- JS -->
-	<script src="js/script.js"></script>
+    <!-- JS -->
+    <script src="js/script.js"></script>
 
-	<!-- Google Tag Manager -->
-	<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-567TGR" height="0" width="0"
-			style="display:none;visibility:hidden"></iframe></noscript>
-	<script>(function (w, d, s, l, i) {
-			w[l] = w[l] || []; w[l].push({
-				'gtm.start':
-					new Date().getTime(), event: 'gtm.js'
-			}); var f = d.getElementsByTagName(s)[0],
-				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-					'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-		})(window, document, 'script', 'dataLayer', 'GTM-567TGR');</script>
-	<!-- End Google Tag Manager -->
+    <!-- Google Tag Manager -->
+    <noscript
+      ><iframe
+        src="//www.googletagmanager.com/ns.html?id=GTM-567TGR"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          "gtm.start": new Date().getTime(),
+          event: "gtm.js",
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "//www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, "script", "dataLayer", "GTM-567TGR");
+    </script>
+    <!-- End Google Tag Manager -->
 
-	<!-- Facebook Conversion Code for SpearHead - Confirmation Page -->
-	<script>(function () {
-			var _fbq = window._fbq || (window._fbq = []);
-			if (!_fbq.loaded) {
-				var fbds = document.createElement('script');
-				fbds.async = true;
-				fbds.src = '//connect.facebook.net/en_US/fbds.js';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(fbds, s);
-				_fbq.loaded = true;
-			}
-		})();
-		window._fbq = window._fbq || [];
-		window._fbq.push(['track', '6030174006198', { 'value': '0.00', 'currency': 'USD' }]);
-	</script>
-	<noscript><img height="1" width="1" alt="" style="display:none"
-			src="https://www.facebook.com/tr?ev=6030174006198&amp;cd[value]=150.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
-	
-	<!-- Checkit -->
-	<script>
-		var APP_ID = '8494aa9b8e30b963227773c524e1b1e7NRHFmMUNuB0k3M8czem++H72Q72G3OBiE4nhRksMtco=';
-		window.chekkitSettings = {
-			app_id: APP_ID
-		};
-	</script>
-	<script async defer>
-		(function () {
-			var d = document,
-				h = d.getElementsByTagName('head')[0],
-				s = d.createElement('script');
+    <!-- Facebook Conversion Code for SpearHead - Confirmation Page -->
+    <script>
+      (function () {
+        var _fbq = window._fbq || (window._fbq = []);
+        if (!_fbq.loaded) {
+          var fbds = document.createElement("script");
+          fbds.async = true;
+          fbds.src = "//connect.facebook.net/en_US/fbds.js";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(fbds, s);
+          _fbq.loaded = true;
+        }
+      })();
+      window._fbq = window._fbq || [];
+      window._fbq.push([
+        "track",
+        "6030174006198",
+        { value: "0.00", currency: "USD" },
+      ]);
+    </script>
+    <noscript
+      ><img
+        height="1"
+        width="1"
+        alt=""
+        style="display: none"
+        src="https://www.facebook.com/tr?ev=6030174006198&amp;cd[value]=150.00&amp;cd[currency]=USD&amp;noscript=1"
+    /></noscript>
 
-			s.type = 'text/javascript';
-			s.async = true;
-			s.src = 'https://chat.chekkit.io/v1/webchat.js'
-			h.appendChild(s);
-		})();
-	</script>
+    <!-- Checkit -->
+    <script>
+      var APP_ID =
+        "8494aa9b8e30b963227773c524e1b1e7NRHFmMUNuB0k3M8czem++H72Q72G3OBiE4nhRksMtco=";
+      window.chekkitSettings = {
+        app_id: APP_ID,
+      };
+    </script>
+    <script async defer>
+      (function () {
+        var d = document,
+          h = d.getElementsByTagName("head")[0],
+          s = d.createElement("script");
 
-	<!-- Formspree -->
-	<script>
-		var form = document.getElementById("fs-frm");
-	
-		async function handleSubmit(event) {
-			event.preventDefault();
-			var status = document.getElementById("fs-form-status");
-			var data = new FormData(event.target);
-			fetch(event.target.action, {
-				method: form.method,
-				body: data,
-				headers: {
-						'Accept': 'application/json'
-				}
-			}).then(response => {
-				status.innerHTML = "Thanks for your submission!";
-				form.reset()
-			}).catch(error => {
-				status.innerHTML = "Oops! There was a problem submitting your form"
-			});
-		}
-		form.addEventListener("submit", handleSubmit)
-	</script>
-</body>
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://chat.chekkit.io/v1/webchat.js";
+        h.appendChild(s);
+      })();
+    </script>
 
+    <!-- Formspree -->
+    <script>
+      var form = document.getElementById("fs-frm");
+
+      async function handleSubmit(event) {
+        event.preventDefault();
+        var status = document.getElementById("fs-form-status");
+        var data = new FormData(event.target);
+        fetch(event.target.action, {
+          method: form.method,
+          body: data,
+          headers: {
+            Accept: "application/json",
+          },
+        })
+          .then((response) => {
+            status.innerHTML = "Thanks for your submission!";
+            form.reset();
+          })
+          .catch((error) => {
+            status.innerHTML = "Oops! There was a problem submitting your form";
+          });
+      }
+      form.addEventListener("submit", handleSubmit);
+    </script>
+  </body>
 </html>
